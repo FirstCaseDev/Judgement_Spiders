@@ -3,7 +3,7 @@ import scrapy
 
 class BrowseAllDocsListSpider(scrapy.Spider):
     name = 'all_list'
-    # allowed_domains = ['indiankanoon.org/browse']
+    allowed_domains = ['indiankanoon.org']
     start_urls = ['https://indiankanoon.org/browse/']
 
     def concatURL(self, url_str):

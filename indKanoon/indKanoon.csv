@@ -1,0 +1,2422 @@
+Source,year,count
+               Delhi High Court             ,1800,45
+               Delhi High Court             ,1955,1
+               Delhi High Court             ,1966,42
+               Delhi High Court             ,1967,215
+               Delhi High Court             ,1968,221
+               Delhi High Court             ,1969,224
+               Bombay High Court             ,1800,275
+               Bombay High Court             ,1868,1
+               Bombay High Court             ,1874,1
+               Delhi High Court             ,1970,301
+               Delhi High Court             ,1971,384
+               Delhi High Court             ,1972,315
+               Delhi High Court             ,1973,311
+               Delhi High Court             ,1974,259
+               Delhi High Court             ,1975,233
+               Delhi High Court             ,1976,220
+               Delhi High Court             ,1977,175
+               Delhi High Court             ,1978,238
+               Delhi High Court             ,1979,314
+               Delhi High Court             ,1980,467
+               Delhi High Court             ,1981,452
+               Bombay High Court             ,1875,23
+               Bombay High Court             ,1876,49
+               Bombay High Court             ,1877,63
+               Bombay High Court             ,1878,40
+               Bombay High Court             ,1879,3
+               Bombay High Court             ,1880,1
+               Bombay High Court             ,1881,5
+               Bombay High Court             ,1882,26
+               Bombay High Court             ,1883,76
+               Bombay High Court             ,1884,55
+               Bombay High Court             ,1885,51
+               Bombay High Court             ,1886,3
+               Bombay High Court             ,1887,76
+               Bombay High Court             ,1888,124
+               Bombay High Court             ,1889,34
+               Bombay High Court             ,1895,1
+               Bombay High Court             ,1901,1
+               Delhi High Court             ,1982,408
+               Delhi High Court             ,1983,396
+               Delhi High Court             ,1984,493
+               Delhi High Court             ,1985,518
+               Delhi High Court             ,1986,451
+               Delhi High Court             ,1987,570
+               Delhi High Court             ,1988,403
+               Delhi High Court             ,1989,614
+               Delhi High Court             ,1990,570
+               Delhi High Court             ,1991,821
+               Delhi High Court             ,1992,696
+               Delhi High Court             ,1993,718
+               Delhi High Court             ,1994,858
+               Delhi High Court             ,1995,1018
+               Delhi High Court             ,1996,1041
+               Delhi High Court             ,1997,1106
+               Delhi High Court             ,1998,1122
+               Delhi High Court             ,1999,1282
+               Delhi High Court             ,2000,1321
+               Gujarat High Court             ,1010,1
+               Gujarat High Court             ,1800,33543
+               Gujarat High Court             ,1928,1
+               Gujarat High Court             ,1947,1
+               Gujarat High Court             ,1951,10
+               Gujarat High Court             ,1952,16
+               Gujarat High Court             ,1953,6
+               Gujarat High Court             ,1954,24
+               Gujarat High Court             ,1955,7
+               Gujarat High Court             ,1960,109
+               Madras High Court             ,3,2
+               Madras High Court             ,4,1
+               Madras High Court             ,5,1
+               Madras High Court             ,6,1
+               Madras High Court             ,7,1
+               Madras High Court             ,9,1
+               Madras High Court             ,10,3
+               Madras High Court             ,11,2
+               Madras High Court             ,12,4
+               Madras High Court             ,13,3
+               Madras High Court             ,14,6
+               Madras High Court             ,15,2
+               Bombay High Court             ,1902,33
+               Bombay High Court             ,1903,38
+               Bombay High Court             ,1904,3
+               Bombay High Court             ,1905,22
+               Bombay High Court             ,1906,163
+               Bombay High Court             ,1907,214
+               Bombay High Court             ,1908,174
+               Bombay High Court             ,1909,157
+               Bombay High Court             ,1910,166
+               Bombay High Court             ,1911,197
+               Bombay High Court             ,1912,260
+               Bombay High Court             ,1913,149
+               Bombay High Court             ,1914,177
+               Bombay High Court             ,1915,184
+               Bombay High Court             ,1916,187
+               Bombay High Court             ,1917,155
+               Bombay High Court             ,1918,215
+               Bombay High Court             ,1919,271
+               Bombay High Court             ,1920,299
+               Bombay High Court             ,1921,276
+               Bombay High Court             ,1922,308
+               Delhi High Court             ,2001,2021
+               Delhi High Court             ,2002,2184
+               Delhi High Court             ,2003,1439
+               Delhi High Court             ,2004,1484
+               Delhi High Court             ,2005,1812
+               Delhi High Court             ,2006,2326
+               Delhi High Court             ,2007,2492
+               Delhi High Court             ,2008,2321
+               Delhi High Court             ,2009,5433
+               Delhi High Court             ,2010,5925
+               Delhi High Court             ,2011,6385
+               Delhi High Court             ,2012,7361
+               Delhi High Court             ,2013,5932
+               Delhi High Court             ,2014,7193
+               Delhi High Court             ,2015,9619
+               Delhi High Court             ,2016,7583
+               Delhi High Court             ,2017,7415
+               Delhi High Court             ,2018,7634
+               Gujarat High Court             ,1961,153
+               Gujarat High Court             ,1962,150
+               Gujarat High Court             ,1963,136
+               Gujarat High Court             ,1964,156
+               Gujarat High Court             ,1965,167
+               Gujarat High Court             ,1966,134
+               Gujarat High Court             ,1967,162
+               Gujarat High Court             ,1968,151
+               Gujarat High Court             ,1969,103
+               Gujarat High Court             ,1970,142
+               Gujarat High Court             ,1971,105
+               Gujarat High Court             ,1972,140
+               Gujarat High Court             ,1973,156
+               Gujarat High Court             ,1974,152
+               Gujarat High Court             ,1975,163
+               Gujarat High Court             ,1976,155
+               Gujarat High Court             ,1977,139
+               Gujarat High Court             ,1978,171
+               Gujarat High Court             ,1979,180
+               Madras High Court             ,16,4
+               Madras High Court             ,17,3
+               Madras High Court             ,18,11
+               Madras High Court             ,19,7
+               Madras High Court             ,20,2
+               Madras High Court             ,94,1
+               Madras High Court             ,97,3
+               Madras High Court             ,99,3
+               Madras High Court             ,201,2
+               Madras High Court             ,203,1
+               Madras High Court             ,207,1
+               Bombay High Court             ,1923,282
+               Bombay High Court             ,1924,319
+               Bombay High Court             ,1925,456
+               Bombay High Court             ,1926,377
+               Bombay High Court             ,1927,235
+               Bombay High Court             ,1928,291
+               Bombay High Court             ,1929,245
+               Bombay High Court             ,1930,287
+               Bombay High Court             ,1931,255
+               Bombay High Court             ,1932,218
+               Bombay High Court             ,1933,212
+               Bombay High Court             ,1934,191
+               Bombay High Court             ,1935,183
+               Bombay High Court             ,1936,225
+               Bombay High Court             ,1937,232
+               Bombay High Court             ,1938,187
+               Bombay High Court             ,1939,190
+               Bombay High Court             ,1940,177
+               Delhi High Court             ,2019,5817
+               Delhi High Court             ,2020,2835
+               Gujarat High Court             ,1980,271
+               Gujarat High Court             ,1981,234
+               Gujarat High Court             ,1982,216
+               Gujarat High Court             ,1983,233
+               Gujarat High Court             ,1984,253
+               Gujarat High Court             ,1985,297
+               Gujarat High Court             ,1986,166
+               Gujarat High Court             ,1987,154
+               Gujarat High Court             ,1988,215
+               Gujarat High Court             ,1989,186
+               Gujarat High Court             ,1990,252
+               Gujarat High Court             ,1991,343
+               Gujarat High Court             ,1992,367
+               Gujarat High Court             ,1993,473
+               Gujarat High Court             ,1994,339
+               Gujarat High Court             ,1995,483
+               Gujarat High Court             ,1996,499
+               Madras High Court             ,208,3
+               Madras High Court             ,209,1
+               Madras High Court             ,216,3
+               Madras High Court             ,219,3
+               Madras High Court             ,1017,1
+               Madras High Court             ,1800,11613
+               Madras High Court             ,1867,1
+               Madras High Court             ,1868,1
+               Madras High Court             ,1871,1
+               Madras High Court             ,1879,1
+               Madras High Court             ,1880,3
+               Madras High Court             ,1881,9
+               Madras High Court             ,1882,160
+               Madras High Court             ,1883,175
+               Madras High Court             ,1884,74
+               Madras High Court             ,1885,1
+               Madras High Court             ,1886,2
+               Madras High Court             ,1887,4
+               Madras High Court             ,1888,5
+               Madras High Court             ,1889,9
+               Bombay High Court             ,1941,158
+               Bombay High Court             ,1942,199
+               Bombay High Court             ,1943,208
+               Bombay High Court             ,1944,190
+               Bombay High Court             ,1945,211
+               Bombay High Court             ,1946,178
+               Bombay High Court             ,1947,119
+               Bombay High Court             ,1948,195
+               Bombay High Court             ,1949,197
+               Gujarat High Court             ,1997,560
+               Gujarat High Court             ,1998,834
+               Gujarat High Court             ,1999,1019
+               Gujarat High Court             ,2000,1636
+               Gujarat High Court             ,2001,1359
+               Gujarat High Court             ,2002,2138
+               Gujarat High Court             ,2003,2727
+               Gujarat High Court             ,2004,3965
+               Gujarat High Court             ,2005,3713
+               Gujarat High Court             ,2006,4902
+               Gujarat High Court             ,2007,7220
+               Gujarat High Court             ,2008,56370
+               Gujarat High Court             ,2009,6802
+               Gujarat High Court             ,2010,89045
+               Gujarat High Court             ,2011,90651
+               Madras High Court             ,1890,98
+               Madras High Court             ,1891,191
+               Madras High Court             ,1892,240
+               Madras High Court             ,1893,174
+               Madras High Court             ,1894,174
+               Madras High Court             ,1895,130
+               Madras High Court             ,1896,155
+               Madras High Court             ,1897,203
+               Madras High Court             ,1898,106
+               Madras High Court             ,1899,34
+               Madras High Court             ,1900,151
+               Madras High Court             ,1901,193
+               Madras High Court             ,1902,160
+               Madras High Court             ,1903,105
+               Madras High Court             ,1904,86
+               Madras High Court             ,1905,141
+               Madras High Court             ,1906,106
+               Madras High Court             ,1907,34
+               Madras High Court             ,1908,233
+               Madras High Court             ,1909,439
+               Madras High Court             ,1910,548
+               Madras High Court             ,1911,431
+               Bombay High Court             ,1950,134
+               Bombay High Court             ,1951,192
+               Bombay High Court             ,1952,191
+               Bombay High Court             ,1953,188
+               Bombay High Court             ,1954,190
+               Bombay High Court             ,1955,367
+               Bombay High Court             ,1956,214
+               Bombay High Court             ,1957,356
+               Bombay High Court             ,1958,333
+               Bombay High Court             ,1959,236
+               Bombay High Court             ,1960,217
+               Bombay High Court             ,1961,170
+               Bombay High Court             ,1962,211
+               Bombay High Court             ,1963,119
+               Bombay High Court             ,1964,110
+               Bombay High Court             ,1965,190
+               Bombay High Court             ,1966,123
+               Bombay High Court             ,1967,172
+               Bombay High Court             ,1968,212
+               Bombay High Court             ,1969,174
+               Bombay High Court             ,1970,202
+               Bombay High Court             ,1971,157
+               Bombay High Court             ,1972,140
+               Bombay High Court             ,1973,165
+               Gujarat High Court             ,2012,58136
+               Gujarat High Court             ,2013,88166
+               Gujarat High Court             ,2014,123403
+               Gujarat High Court             ,2015,133311
+               Gujarat High Court             ,2016,134861
+               Gujarat High Court             ,2017,148199
+               Gujarat High Court             ,2018,148795
+               Gujarat High Court             ,2019,156225
+               Gujarat High Court             ,2020,120429
+               Gujarat High Court             ,2021,1
+               Gujarat High Court             ,2026,2
+               Gujarat High Court             ,2086,1
+               Gujarat High Court             ,2103,1
+               Madras High Court             ,1912,713
+               Madras High Court             ,1913,334
+               Madras High Court             ,1914,497
+               Madras High Court             ,1915,737
+               Madras High Court             ,1916,532
+               Madras High Court             ,1917,478
+               Madras High Court             ,1918,384
+               Madras High Court             ,1919,376
+               Madras High Court             ,1920,375
+               Madras High Court             ,1921,320
+               Madras High Court             ,1922,401
+               Madras High Court             ,1923,494
+               Madras High Court             ,1924,853
+               Madras High Court             ,1925,762
+               Madras High Court             ,1926,718
+               Madras High Court             ,1927,697
+               Madras High Court             ,1928,473
+               Madras High Court             ,1929,564
+               Madras High Court             ,1930,310
+               Madras High Court             ,1931,341
+               Bombay High Court             ,1974,171
+               Bombay High Court             ,1975,252
+               Bombay High Court             ,1976,309
+               Bombay High Court             ,1977,331
+               Bombay High Court             ,1978,286
+               Bombay High Court             ,1979,340
+               Bombay High Court             ,1980,306
+               Bombay High Court             ,1981,442
+               Bombay High Court             ,1982,445
+               Bombay High Court             ,1983,479
+               Bombay High Court             ,1984,551
+               Bombay High Court             ,1985,452
+               Bombay High Court             ,1986,462
+               Bombay High Court             ,1987,653
+               Bombay High Court             ,1988,611
+               Bombay High Court             ,1989,521
+               Bombay High Court             ,1990,736
+               Bombay High Court             ,1991,778
+               Bombay High Court             ,1992,742
+               Bombay High Court             ,1993,802
+               Bombay High Court             ,1994,827
+               Bombay High Court             ,1995,676
+               Bombay High Court             ,1996,734
+               Bombay High Court             ,1997,858
+               Bombay High Court             ,1998,869
+               Bombay High Court             ,1999,927
+               Madras High Court             ,1932,343
+               Madras High Court             ,1933,342
+               Madras High Court             ,1934,533
+               Madras High Court             ,1935,616
+               Madras High Court             ,1936,512
+               Madras High Court             ,1937,462
+               Madras High Court             ,1938,428
+               Madras High Court             ,1939,447
+               Madras High Court             ,1940,526
+               Madras High Court             ,1941,472
+               Madras High Court             ,1942,451
+               Madras High Court             ,1943,350
+               Madras High Court             ,1944,321
+               Madras High Court             ,1945,406
+               Madras High Court             ,1946,304
+               Madras High Court             ,1947,341
+               Madras High Court             ,1948,427
+               Madras High Court             ,1949,594
+               Madras High Court             ,1950,369
+               Madras High Court             ,1951,377
+               Bombay High Court             ,2000,938
+               Bombay High Court             ,2001,991
+               Bombay High Court             ,2002,1366
+               Bombay High Court             ,2003,1299
+               Bombay High Court             ,2004,1439
+               Bombay High Court             ,2005,1537
+               Bombay High Court             ,2006,1248
+               Bombay High Court             ,2007,1348
+               Bombay High Court             ,2008,1432
+               Bombay High Court             ,2009,2060
+               Bombay High Court             ,2010,1943
+               Bombay High Court             ,2011,1924
+               Bombay High Court             ,2012,2141
+               Bombay High Court             ,2013,2044
+               Bombay High Court             ,2014,1785
+               Bombay High Court             ,2015,2315
+               Bombay High Court             ,2016,9488
+               Bombay High Court             ,2017,14239
+               Bombay High Court             ,2018,201041
+               Bombay High Court             ,2019,539073
+               Madras High Court             ,1952,364
+               Madras High Court             ,1953,364
+               Madras High Court             ,1954,298
+               Madras High Court             ,1955,219
+               Madras High Court             ,1956,409
+               Madras High Court             ,1957,373
+               Madras High Court             ,1958,342
+               Madras High Court             ,1959,403
+               Madras High Court             ,1960,305
+               Madras High Court             ,1961,402
+               Madras High Court             ,1962,405
+               Madras High Court             ,1963,420
+               Madras High Court             ,1964,292
+               Madras High Court             ,1965,331
+               Madras High Court             ,1966,305
+               Madras High Court             ,1967,515
+               Madras High Court             ,1968,453
+               Madras High Court             ,1969,434
+               Madras High Court             ,1970,281
+               Madras High Court             ,1971,463
+               Madras High Court             ,1972,539
+               Bombay High Court             ,2020,194661
+               Madras High Court             ,1973,378
+               Madras High Court             ,1974,384
+               Madras High Court             ,1975,373
+               Madras High Court             ,1976,548
+               Madras High Court             ,1977,397
+               Madras High Court             ,1978,394
+               Madras High Court             ,1979,506
+               Madras High Court             ,1980,437
+               Madras High Court             ,1981,506
+               Madras High Court             ,1982,423
+               Madras High Court             ,1983,528
+               Madras High Court             ,1984,439
+               Madras High Court             ,1985,325
+               Madras High Court             ,1986,373
+               Madras High Court             ,1987,351
+               Madras High Court             ,1988,405
+               Madras High Court             ,1989,482
+               Madras High Court             ,1990,760
+               Madras High Court             ,1991,698
+               Madras High Court             ,1992,476
+               Madras High Court             ,1993,597
+               Madras High Court             ,1994,875
+               Madras High Court             ,1995,957
+               Madras High Court             ,1996,1129
+               Madras High Court             ,1997,1457
+               Madras High Court             ,1998,1583
+               Madras High Court             ,1999,1017
+               Madras High Court             ,2000,907
+               Madras High Court             ,2001,1134
+               Madras High Court             ,2002,2937
+               Madras High Court             ,2003,2662
+               Madras High Court             ,2004,2289
+               Madras High Court             ,2005,2137
+               Madras High Court             ,2006,5689
+               Madras High Court             ,2007,6600
+               Madras High Court             ,2008,6917
+               Madras High Court             ,2009,7192
+               Madras High Court             ,2010,8541
+               Madras High Court             ,2011,7621
+               Madras High Court             ,2012,8486
+               Madras High Court             ,2013,6083
+               Madras High Court             ,2014,20852
+               Madras High Court             ,2015,54768
+               Madras High Court             ,2016,68976
+               Madras High Court             ,2017,86152
+               Madras High Court             ,2018,103218
+               Madras High Court             ,2019,117450
+               Madras High Court             ,2020,59527
+               Madras High Court             ,2022,2
+               Madras High Court             ,2027,5
+               Madras High Court             ,2028,1
+               Madras High Court             ,2103,1
+               Madras High Court             ,2104,1
+               Madras High Court             ,2105,1
+               Madras High Court             ,2106,1
+               Madras High Court             ,2108,1
+               Madras High Court             ,2136,1
+               Madras High Court             ,2417,2
+               Madras High Court             ,3016,1
+               Madras High Court             ,3018,1
+               Supreme Court of India             ,1947,397
+               Supreme Court of India             ,1948,30
+               Supreme Court of India             ,1949,6
+               Supreme Court of India             ,1950,61
+               Supreme Court of India             ,1951,85
+               Supreme Court of India             ,1952,111
+               Supreme Court of India             ,1953,127
+               Supreme Court of India             ,1954,187
+               Supreme Court of India             ,1955,130
+               Supreme Court of India             ,1956,117
+               Supreme Court of India             ,1957,155
+               Supreme Court of India             ,1958,177
+               Supreme Court of India             ,1959,225
+               Supreme Court of India             ,1960,343
+               Supreme Court of India             ,1961,435
+               Supreme Court of India             ,1962,438
+               Supreme Court of India             ,1963,307
+               Supreme Court of India             ,1964,349
+               Supreme Court of India             ,1965,382
+               Supreme Court of India             ,1966,313
+               Supreme Court of India             ,1967,369
+               Supreme Court of India             ,1968,384
+               Supreme Court of India             ,1969,541
+               Supreme Court of India             ,1970,419
+               Supreme Court of India             ,1971,655
+               Supreme Court of India             ,1972,608
+               Supreme Court of India             ,1973,432
+               Supreme Court of India             ,1974,449
+               Supreme Court of India             ,1975,542
+               Supreme Court of India             ,1976,514
+               Supreme Court of India             ,1977,363
+               Supreme Court of India             ,1978,412
+               Supreme Court of India             ,1979,504
+               Supreme Court of India             ,1980,460
+               Supreme Court of India             ,1981,415
+               Supreme Court of India             ,1982,224
+               Supreme Court of India             ,1983,390
+               Supreme Court of India             ,1984,357
+               Supreme Court of India             ,1985,371
+               Supreme Court of India             ,1986,464
+               Supreme Court of India             ,1987,621
+               Supreme Court of India             ,1988,524
+               Supreme Court of India             ,1989,571
+               Supreme Court of India             ,1990,730
+               Supreme Court of India             ,1991,600
+               Supreme Court of India             ,1992,773
+               Supreme Court of India             ,1993,980
+               Supreme Court of India             ,1994,1193
+               Supreme Court of India             ,1995,1275
+               Supreme Court of India             ,1996,2247
+               Supreme Court of India             ,1997,1642
+               Supreme Court of India             ,1998,1286
+               Supreme Court of India             ,1999,1162
+               Supreme Court of India             ,2000,1564
+               Supreme Court of India             ,2001,1166
+               Supreme Court of India             ,2002,1341
+               Supreme Court of India             ,2003,1369
+               Supreme Court of India             ,2004,1213
+               Supreme Court of India             ,2005,941
+               Supreme Court of India             ,2006,1229
+               Supreme Court of India             ,2007,1561
+               Supreme Court of India             ,2008,2825
+               Supreme Court of India             ,2009,2218
+               Supreme Court of India             ,2010,1381
+               Supreme Court of India             ,2011,1271
+               Supreme Court of India             ,2012,849
+               Supreme Court of India             ,2013,1077
+               Supreme Court of India             ,2014,841
+               Supreme Court of India             ,2015,812
+               Supreme Court of India             ,2016,742
+               Supreme Court of India             ,2017,830
+               Supreme Court of India             ,2018,1057
+               Supreme Court of India             ,2019,1251
+               Supreme Court of India             ,2020,686
+               Himachal Pradesh High Court             ,1800,1
+               Himachal Pradesh High Court             ,1948,1
+               Himachal Pradesh High Court             ,1949,14
+               Himachal Pradesh High Court             ,1950,18
+               Himachal Pradesh High Court             ,1951,36
+               Himachal Pradesh High Court             ,1952,49
+               Himachal Pradesh High Court             ,1953,61
+               Himachal Pradesh High Court             ,1954,50
+               Himachal Pradesh High Court             ,1955,33
+               Himachal Pradesh High Court             ,1956,29
+               Himachal Pradesh High Court             ,1957,14
+               Himachal Pradesh High Court             ,1958,7
+               Himachal Pradesh High Court             ,1959,10
+               Himachal Pradesh High Court             ,1960,16
+               Himachal Pradesh High Court             ,1961,26
+               Himachal Pradesh High Court             ,1962,21
+               Himachal Pradesh High Court             ,1963,11
+               Himachal Pradesh High Court             ,1964,31
+               Himachal Pradesh High Court             ,1965,24
+               Himachal Pradesh High Court             ,1966,13
+               Himachal Pradesh High Court             ,1970,1
+               Himachal Pradesh High Court             ,1971,48
+               Himachal Pradesh High Court             ,1972,57
+               Himachal Pradesh High Court             ,1973,27
+               Himachal Pradesh High Court             ,1974,30
+               Himachal Pradesh High Court             ,1975,42
+               Himachal Pradesh High Court             ,1976,43
+               Himachal Pradesh High Court             ,1977,39
+               Himachal Pradesh High Court             ,1978,25
+               Himachal Pradesh High Court             ,1979,21
+               Himachal Pradesh High Court             ,1980,31
+               Himachal Pradesh High Court             ,1981,43
+               Himachal Pradesh High Court             ,1982,37
+               Himachal Pradesh High Court             ,1983,30
+               Himachal Pradesh High Court             ,1984,59
+               Himachal Pradesh High Court             ,1985,37
+               Himachal Pradesh High Court             ,1986,34
+               Himachal Pradesh High Court             ,1987,24
+               Himachal Pradesh High Court             ,1988,29
+               Himachal Pradesh High Court             ,1989,84
+               Himachal Pradesh High Court             ,1990,37
+               Himachal Pradesh High Court             ,1991,38
+               Himachal Pradesh High Court             ,1992,33
+               Himachal Pradesh High Court             ,1993,55
+               Himachal Pradesh High Court             ,1994,86
+               Himachal Pradesh High Court             ,1995,25
+               Himachal Pradesh High Court             ,1996,87
+               Himachal Pradesh High Court             ,1997,71
+               Himachal Pradesh High Court             ,1998,43
+               Himachal Pradesh High Court             ,1999,111
+               Himachal Pradesh High Court             ,2000,53
+               Himachal Pradesh High Court             ,2001,76
+               Himachal Pradesh High Court             ,2002,104
+               Himachal Pradesh High Court             ,2003,68
+               Himachal Pradesh High Court             ,2004,83
+               Himachal Pradesh High Court             ,2005,196
+               Himachal Pradesh High Court             ,2006,199
+               Himachal Pradesh High Court             ,2007,271
+               Himachal Pradesh High Court             ,2008,42
+               Himachal Pradesh High Court             ,2015,5793
+               Himachal Pradesh High Court             ,2017,17083
+               Himachal Pradesh High Court             ,2018,55320
+               Himachal Pradesh High Court             ,2019,55239
+               Himachal Pradesh High Court             ,2020,54982
+               Gauhati High Court             ,1800,8
+               Gauhati High Court             ,1932,1
+               Gauhati High Court             ,1948,3
+               Gauhati High Court             ,1949,24
+               Gauhati High Court             ,1950,24
+               Gauhati High Court             ,1951,47
+               Gauhati High Court             ,1952,93
+               Gauhati High Court             ,1953,40
+               Gauhati High Court             ,1954,30
+               Gauhati High Court             ,1955,19
+               Gauhati High Court             ,1956,35
+               Gauhati High Court             ,1957,23
+               Gauhati High Court             ,1958,60
+               Gauhati High Court             ,1959,35
+               Gauhati High Court             ,1960,38
+               Gauhati High Court             ,1961,54
+               Gauhati High Court             ,1962,31
+               Gauhati High Court             ,1963,43
+               Gauhati High Court             ,1964,22
+               Gauhati High Court             ,1965,23
+               Gauhati High Court             ,1966,11
+               Gauhati High Court             ,1967,37
+               Gauhati High Court             ,1968,23
+               Gauhati High Court             ,1969,31
+               Gauhati High Court             ,1970,40
+               Gauhati High Court             ,1971,32
+               Gauhati High Court             ,1972,26
+               Gauhati High Court             ,1973,27
+               Gauhati High Court             ,1974,18
+               Gauhati High Court             ,1975,31
+               Gauhati High Court             ,1976,61
+               Gauhati High Court             ,1977,40
+               Gauhati High Court             ,1978,16
+               Gauhati High Court             ,1979,37
+               Gauhati High Court             ,1980,49
+               Gauhati High Court             ,1981,88
+               Gauhati High Court             ,1982,75
+               Gauhati High Court             ,1983,72
+               Gauhati High Court             ,1984,76
+               Gauhati High Court             ,1985,25
+               Gauhati High Court             ,1986,33
+               Gauhati High Court             ,1987,46
+               Gauhati High Court             ,1988,71
+               Gauhati High Court             ,1989,104
+               Gauhati High Court             ,1990,74
+               Gauhati High Court             ,1991,82
+               Gauhati High Court             ,1992,66
+               Gauhati High Court             ,1993,89
+               Gauhati High Court             ,1994,82
+               Gauhati High Court             ,1995,91
+               Gauhati High Court             ,1996,156
+               Gauhati High Court             ,1997,72
+               Gauhati High Court             ,1998,104
+               Gauhati High Court             ,1999,121
+               Gauhati High Court             ,2000,240
+               Gauhati High Court             ,2001,321
+               Gauhati High Court             ,2002,350
+               Gauhati High Court             ,2003,552
+               Gauhati High Court             ,2004,405
+               Gauhati High Court             ,2005,344
+               Gauhati High Court             ,2006,506
+               Gauhati High Court             ,2007,551
+               Gauhati High Court             ,2008,83
+               Gauhati High Court             ,2010,38
+               Gauhati High Court             ,2011,301
+               Gauhati High Court             ,2012,499
+               Gauhati High Court             ,2013,426
+               Gauhati High Court             ,2014,679
+               Gauhati High Court             ,2015,1050
+               Gauhati High Court             ,2016,938
+               Gauhati High Court             ,2017,1624
+               Gauhati High Court             ,2018,4818
+               Gauhati High Court             ,2019,54865
+               Gauhati High Court             ,2020,54219
+               Chattisgarh High Court             ,1800,15
+               Chattisgarh High Court             ,2000,15
+               Chattisgarh High Court             ,2001,102
+               Chattisgarh High Court             ,2002,93
+               Chattisgarh High Court             ,2003,64
+               Chattisgarh High Court             ,2004,68
+               Chattisgarh High Court             ,2005,140
+               Chattisgarh High Court             ,2006,179
+               Chattisgarh High Court             ,2007,230
+               Chattisgarh High Court             ,2008,199
+               Chattisgarh High Court             ,2009,366
+               Chattisgarh High Court             ,2010,525
+               Chattisgarh High Court             ,2011,451
+               Chattisgarh High Court             ,2012,323
+               Chattisgarh High Court             ,2014,5
+               Chattisgarh High Court             ,2015,8295
+               Chattisgarh High Court             ,2016,13152
+               Chattisgarh High Court             ,2017,13362
+               Chattisgarh High Court             ,2018,12440
+               Chattisgarh High Court             ,2019,10244
+               Chattisgarh High Court             ,2020,3711
+               Andhra High Court             ,17,5
+               Andhra High Court             ,1800,325
+               Andhra High Court             ,1932,4
+               Andhra High Court             ,1954,64
+               Andhra High Court             ,1955,108
+               Andhra High Court             ,1956,80
+               Andhra High Court             ,1957,107
+               Andhra High Court             ,1958,226
+               Andhra High Court             ,1959,274
+               Andhra High Court             ,1960,234
+               Andhra High Court             ,1961,150
+               Andhra High Court             ,1962,172
+               Andhra High Court             ,1963,165
+               Andhra High Court             ,1964,172
+               Andhra High Court             ,1965,154
+               Andhra High Court             ,1966,155
+               Andhra High Court             ,1967,135
+               Andhra High Court             ,1968,128
+               Andhra High Court             ,1969,92
+               Andhra High Court             ,1970,153
+               Andhra High Court             ,1971,201
+               Andhra High Court             ,1972,146
+               Andhra High Court             ,1973,109
+               Andhra High Court             ,1974,138
+               Andhra High Court             ,1975,153
+               Andhra High Court             ,1976,127
+               Andhra High Court             ,1977,176
+               Andhra High Court             ,1978,161
+               Andhra High Court             ,1979,120
+               Andhra High Court             ,1980,117
+               Andhra High Court             ,1981,140
+               Andhra High Court             ,1982,222
+               Andhra High Court             ,1983,160
+               Andhra High Court             ,1984,220
+               Andhra High Court             ,1985,167
+               Andhra High Court             ,1986,131
+               Andhra High Court             ,1987,298
+               Andhra High Court             ,1988,254
+               Andhra High Court             ,1989,250
+               Andhra High Court             ,1990,249
+               Andhra High Court             ,1991,422
+               Andhra High Court             ,1992,414
+               Andhra High Court             ,1993,427
+               Andhra High Court             ,1994,451
+               Andhra High Court             ,1995,737
+               Andhra High Court             ,1996,917
+               Andhra High Court             ,1997,1004
+               Andhra High Court             ,1998,931
+               Andhra High Court             ,1999,1178
+               Andhra High Court             ,2000,908
+               Andhra High Court             ,2001,1513
+               Andhra High Court             ,2002,1383
+               Andhra High Court             ,2003,1298
+               Andhra High Court             ,2004,1278
+               Andhra High Court             ,2005,1090
+               Andhra High Court             ,2006,1283
+               Andhra High Court             ,2007,1038
+               Andhra High Court             ,2008,187
+               Andhra High Court             ,2010,1
+               Andhra High Court             ,2011,11
+               Andhra High Court             ,2012,471
+               Andhra High Court             ,2013,484
+               Andhra High Court             ,2014,1149
+               Andhra High Court             ,2015,677
+               Andhra High Court             ,2016,534
+               Andhra High Court             ,2017,691
+               Andhra High Court             ,2018,442
+               State Taxation Tribunal             ,1955,6
+               State Taxation Tribunal             ,1956,15
+               State Taxation Tribunal             ,1959,2
+               State Taxation Tribunal             ,1960,9
+               State Taxation Tribunal             ,1989,23
+               State Taxation Tribunal             ,1990,16
+               State Taxation Tribunal             ,1991,4
+               State Taxation Tribunal             ,1993,2
+               State Taxation Tribunal             ,1994,5
+               State Taxation Tribunal             ,1995,4
+               State Taxation Tribunal             ,1996,19
+               State Taxation Tribunal             ,1997,29
+               State Taxation Tribunal             ,1998,37
+               State Taxation Tribunal             ,1999,62
+               State Taxation Tribunal             ,2000,63
+               Supreme Court - Daily Orders             ,2010,439
+               Supreme Court - Daily Orders             ,2017,64757
+               Supreme Court - Daily Orders             ,2018,122048
+               Supreme Court - Daily Orders             ,2019,128640
+               Supreme Court - Daily Orders             ,2020,56799
+               State Taxation Tribunal             ,2001,34
+               State Taxation Tribunal             ,2002,26
+               State Taxation Tribunal             ,2003,16
+               State Taxation Tribunal             ,2004,10
+               State Taxation Tribunal             ,2005,12
+               State Taxation Tribunal             ,2006,12
+               State Taxation Tribunal             ,2007,2
+               Allahabad High Court             ,1800,30
+               Allahabad High Court             ,1858,1
+               Allahabad High Court             ,1859,1
+               Allahabad High Court             ,1868,1
+               Allahabad High Court             ,1874,1
+               Allahabad High Court             ,1875,20
+               Allahabad High Court             ,1876,55
+               Allahabad High Court             ,1877,63
+               Allahabad High Court             ,1878,82
+               Allahabad High Court             ,1879,111
+               Allahabad High Court             ,1880,90
+               Allahabad High Court             ,1883,1
+               Allahabad High Court             ,1884,54
+               Allahabad High Court             ,1885,152
+               Allahabad High Court             ,1886,150
+               Allahabad High Court             ,1887,103
+               Allahabad High Court             ,1888,55
+               Allahabad High Court             ,1889,1
+               Allahabad High Court             ,1892,1
+               Allahabad High Court             ,1893,3
+               Allahabad High Court             ,1894,22
+               Allahabad High Court             ,1895,114
+               Allahabad High Court             ,1896,131
+               Allahabad High Court             ,1897,130
+               Allahabad High Court             ,1898,120
+               Allahabad High Court             ,1899,90
+               Allahabad High Court             ,1900,57
+               Allahabad High Court             ,1901,32
+               Allahabad High Court             ,1902,69
+               Allahabad High Court             ,1904,2
+               Allahabad High Court             ,1906,64
+               Allahabad High Court             ,1907,133
+               Allahabad High Court             ,1908,174
+               Allahabad High Court             ,1909,381
+               Allahabad High Court             ,1910,318
+               Allahabad High Court             ,1911,188
+               Allahabad High Court             ,1912,499
+               Allahabad High Court             ,1913,223
+               Allahabad High Court             ,1914,337
+               Allahabad High Court             ,1915,457
+               Allahabad High Court             ,1916,472
+               Allahabad High Court             ,1917,399
+               Allahabad High Court             ,1918,381
+               Allahabad High Court             ,1919,387
+               Allahabad High Court             ,1920,495
+               Allahabad High Court             ,1921,434
+               Allahabad High Court             ,1922,657
+               Allahabad High Court             ,1923,682
+               Allahabad High Court             ,1924,690
+               Allahabad High Court             ,1925,519
+               Allahabad High Court             ,1926,505
+               Allahabad High Court             ,1927,497
+               Allahabad High Court             ,1928,354
+               Allahabad High Court             ,1929,688
+               Allahabad High Court             ,1930,454
+               Allahabad High Court             ,1931,367
+               Allahabad High Court             ,1932,351
+               Allahabad High Court             ,1933,499
+               Allahabad High Court             ,1934,455
+               Allahabad High Court             ,1935,430
+               Allahabad High Court             ,1936,346
+               Allahabad High Court             ,1937,285
+               Allahabad High Court             ,1938,285
+               Allahabad High Court             ,1939,253
+               Allahabad High Court             ,1940,194
+               Allahabad High Court             ,1941,64
+               Allahabad High Court             ,1942,86
+               Allahabad High Court             ,1943,94
+               Allahabad High Court             ,1944,159
+               Allahabad High Court             ,1945,193
+               Allahabad High Court             ,1946,64
+               Allahabad High Court             ,1947,116
+               Allahabad High Court             ,1948,255
+               Allahabad High Court             ,1949,323
+               Allahabad High Court             ,1950,413
+               Allahabad High Court             ,1951,247
+               Allahabad High Court             ,1952,319
+               Allahabad High Court             ,1953,384
+               Allahabad High Court             ,1954,275
+               Allahabad High Court             ,1955,272
+               Allahabad High Court             ,1956,236
+               Allahabad High Court             ,1957,314
+               Allahabad High Court             ,1958,236
+               Allahabad High Court             ,1959,271
+               Allahabad High Court             ,1960,254
+               Allahabad High Court             ,1961,273
+               Allahabad High Court             ,1962,267
+               Allahabad High Court             ,1963,228
+               Allahabad High Court             ,1964,267
+               Allahabad High Court             ,1965,236
+               Allahabad High Court             ,1966,232
+               Allahabad High Court             ,1967,181
+               Allahabad High Court             ,1968,193
+               Allahabad High Court             ,1969,153
+               Allahabad High Court             ,1970,225
+               Allahabad High Court             ,1971,376
+               Allahabad High Court             ,1972,352
+               Allahabad High Court             ,1973,298
+               Allahabad High Court             ,1974,302
+               Allahabad High Court             ,1975,297
+               Allahabad High Court             ,1976,333
+               Allahabad High Court             ,1977,290
+               Allahabad High Court             ,1978,448
+               Allahabad High Court             ,1979,315
+               Allahabad High Court             ,1980,260
+               Allahabad High Court             ,1981,226
+               Allahabad High Court             ,1982,268
+               Allahabad High Court             ,1983,174
+               Allahabad High Court             ,1984,250
+               Allahabad High Court             ,1985,258
+               Allahabad High Court             ,1986,221
+               Allahabad High Court             ,1987,243
+               Allahabad High Court             ,1988,237
+               Allahabad High Court             ,1989,297
+               Allahabad High Court             ,1990,420
+               Allahabad High Court             ,1991,487
+               Allahabad High Court             ,1992,315
+               Allahabad High Court             ,1993,227
+               Allahabad High Court             ,1994,326
+               Allahabad High Court             ,1995,428
+               Allahabad High Court             ,1996,390
+               Allahabad High Court             ,1997,728
+               Allahabad High Court             ,1998,1078
+               Allahabad High Court             ,1999,1232
+               Allahabad High Court             ,2000,805
+               Allahabad High Court             ,2001,27
+               Allahabad High Court             ,2002,1394
+               Allahabad High Court             ,2003,1462
+               Allahabad High Court             ,2004,2072
+               Allahabad High Court             ,2005,2346
+               Allahabad High Court             ,2006,2042
+               Allahabad High Court             ,2007,1793
+               Allahabad High Court             ,2008,401
+               Allahabad High Court             ,2010,212239
+               Allahabad High Court             ,2011,9676
+               Allahabad High Court             ,2012,8986
+               Allahabad High Court             ,2013,10301
+               Allahabad High Court             ,2014,13302
+               Allahabad High Court             ,2015,8389
+               Allahabad High Court             ,2016,10468
+               Allahabad High Court             ,2017,10863
+               Allahabad High Court             ,2018,7103
+               Allahabad High Court             ,2019,151179
+               Allahabad High Court             ,2020,159268
+               Constituent Assembly Debates             ,1946,11
+               Constituent Assembly Debates             ,1947,42
+               Constituent Assembly Debates             ,1948,52
+               Constituent Assembly Debates             ,1949,154
+               Constituent Assembly Debates             ,1950,1
+               Securities Appellate Tribunal             ,1800,44
+               Securities Appellate Tribunal             ,1998,2
+               Securities Appellate Tribunal             ,1999,5
+               Securities Appellate Tribunal             ,2000,21
+               Securities Appellate Tribunal             ,2001,44
+               Securities Appellate Tribunal             ,2002,155
+               Securities Appellate Tribunal             ,2003,230
+               Securities Appellate Tribunal             ,2004,343
+               Securities Appellate Tribunal             ,2005,254
+               Securities Appellate Tribunal             ,2006,327
+               Securities Appellate Tribunal             ,2007,217
+               Securities Appellate Tribunal             ,2008,101
+               Securities Appellate Tribunal             ,2017,467
+               Securities Appellate Tribunal             ,2018,396
+               Securities Appellate Tribunal             ,2019,478
+               Securities Appellate Tribunal             ,2020,518
+               Monopolies and Restrictive Trade Practices Commission             ,1974,14
+               Monopolies and Restrictive Trade Practices Commission             ,1975,18
+               Monopolies and Restrictive Trade Practices Commission             ,1976,11
+               Monopolies and Restrictive Trade Practices Commission             ,1977,13
+               Monopolies and Restrictive Trade Practices Commission             ,1978,4
+               Monopolies and Restrictive Trade Practices Commission             ,1985,1
+               Monopolies and Restrictive Trade Practices Commission             ,1986,22
+               Monopolies and Restrictive Trade Practices Commission             ,1987,24
+               Monopolies and Restrictive Trade Practices Commission             ,1988,11
+               Monopolies and Restrictive Trade Practices Commission             ,1989,5
+               Monopolies and Restrictive Trade Practices Commission             ,1990,7
+               Monopolies and Restrictive Trade Practices Commission             ,1991,13
+               Monopolies and Restrictive Trade Practices Commission             ,1992,3
+               Monopolies and Restrictive Trade Practices Commission             ,1993,17
+               Monopolies and Restrictive Trade Practices Commission             ,1994,13
+               Monopolies and Restrictive Trade Practices Commission             ,1996,11
+               Monopolies and Restrictive Trade Practices Commission             ,1997,10
+               Monopolies and Restrictive Trade Practices Commission             ,1998,11
+               Monopolies and Restrictive Trade Practices Commission             ,1999,12
+               Monopolies and Restrictive Trade Practices Commission             ,2001,90
+               Monopolies and Restrictive Trade Practices Commission             ,2002,93
+               Monopolies and Restrictive Trade Practices Commission             ,2003,41
+               Monopolies and Restrictive Trade Practices Commission             ,2004,9
+               Income Tax Appellate Tribunal             ,1006,1
+               Income Tax Appellate Tribunal             ,1009,1
+               Income Tax Appellate Tribunal             ,1012,2
+               Income Tax Appellate Tribunal             ,1013,1
+               Income Tax Appellate Tribunal             ,1800,14362
+               Income Tax Appellate Tribunal             ,1934,4
+               Income Tax Appellate Tribunal             ,1935,3
+               Income Tax Appellate Tribunal             ,1936,1
+               Income Tax Appellate Tribunal             ,1937,7
+               Income Tax Appellate Tribunal             ,1938,5
+               Income Tax Appellate Tribunal             ,1939,6
+               Income Tax Appellate Tribunal             ,1940,2
+               Income Tax Appellate Tribunal             ,1941,1
+               Income Tax Appellate Tribunal             ,1942,4
+               Income Tax Appellate Tribunal             ,1943,6
+               Income Tax Appellate Tribunal             ,1944,3
+               Income Tax Appellate Tribunal             ,1945,7
+               Income Tax Appellate Tribunal             ,1946,1
+               Income Tax Appellate Tribunal             ,1947,2
+               Income Tax Appellate Tribunal             ,1948,3
+               Income Tax Appellate Tribunal             ,1949,1
+               Income Tax Appellate Tribunal             ,1952,8
+               Income Tax Appellate Tribunal             ,1953,8
+               Income Tax Appellate Tribunal             ,1954,10
+               Income Tax Appellate Tribunal             ,1955,24
+               Income Tax Appellate Tribunal             ,1956,9
+               Income Tax Appellate Tribunal             ,1962,1
+               Income Tax Appellate Tribunal             ,1963,1
+               Income Tax Appellate Tribunal             ,1964,2
+               Income Tax Appellate Tribunal             ,1965,1
+               Income Tax Appellate Tribunal             ,1968,4
+               Income Tax Appellate Tribunal             ,1969,5
+               Income Tax Appellate Tribunal             ,1970,1
+               Income Tax Appellate Tribunal             ,1971,2
+               Income Tax Appellate Tribunal             ,1973,2
+               Income Tax Appellate Tribunal             ,1974,2
+               Income Tax Appellate Tribunal             ,1975,3
+               Income Tax Appellate Tribunal             ,1976,1
+               Income Tax Appellate Tribunal             ,1977,2
+               Income Tax Appellate Tribunal             ,1978,4
+               Income Tax Appellate Tribunal             ,1979,11
+               Income Tax Appellate Tribunal             ,1980,2
+               Income Tax Appellate Tribunal             ,1981,112
+               Income Tax Appellate Tribunal             ,1982,395
+               Income Tax Appellate Tribunal             ,1983,392
+               Income Tax Appellate Tribunal             ,1984,492
+               Income Tax Appellate Tribunal             ,1985,364
+               Income Tax Appellate Tribunal             ,1986,424
+               Income Tax Appellate Tribunal             ,1987,410
+               Income Tax Appellate Tribunal             ,1988,229
+               Income Tax Appellate Tribunal             ,1989,233
+               Income Tax Appellate Tribunal             ,1990,310
+               Income Tax Appellate Tribunal             ,1991,377
+               Income Tax Appellate Tribunal             ,1992,439
+               Income Tax Appellate Tribunal             ,1993,425
+               Income Tax Appellate Tribunal             ,1994,310
+               Income Tax Appellate Tribunal             ,1995,403
+               Income Tax Appellate Tribunal             ,1996,509
+               Income Tax Appellate Tribunal             ,1997,539
+               Income Tax Appellate Tribunal             ,1998,464
+               Income Tax Appellate Tribunal             ,1999,488
+               Income Tax Appellate Tribunal             ,2000,607
+               Income Tax Appellate Tribunal             ,2001,598
+               Income Tax Appellate Tribunal             ,2002,571
+               Income Tax Appellate Tribunal             ,2003,686
+               Income Tax Appellate Tribunal             ,2004,1031
+               Income Tax Appellate Tribunal             ,2005,1256
+               Income Tax Appellate Tribunal             ,2006,1472
+               Income Tax Appellate Tribunal             ,2007,1670
+               Income Tax Appellate Tribunal             ,2008,1947
+               Income Tax Appellate Tribunal             ,2009,3946
+               Income Tax Appellate Tribunal             ,2010,5171
+               Income Tax Appellate Tribunal             ,2011,6662
+               Income Tax Appellate Tribunal             ,2012,12351
+               Income Tax Appellate Tribunal             ,2013,9371
+               Income Tax Appellate Tribunal             ,2014,7399
+               Income Tax Appellate Tribunal             ,2015,11772
+               Income Tax Appellate Tribunal             ,2016,14834
+               Income Tax Appellate Tribunal             ,2017,15848
+               Income Tax Appellate Tribunal             ,2018,21677
+               Income Tax Appellate Tribunal             ,2019,20494
+               Income Tax Appellate Tribunal             ,2020,11892
+               Income Tax Appellate Tribunal             ,2032,1
+               Income Tax Appellate Tribunal             ,2102,1
+               Income Tax Appellate Tribunal             ,2103,1
+               Income Tax Appellate Tribunal             ,2205,1
+               Income Tax Appellate Tribunal             ,2208,1
+               Income Tax Appellate Tribunal             ,3004,1
+               Income Tax Appellate Tribunal             ,3011,1
+               Income Tax Appellate Tribunal             ,3014,1
+               Income Tax Appellate Tribunal             ,6648,1
+               National Company Law Appellate Tribunal             ,2016,14
+               National Company Law Appellate Tribunal             ,2017,464
+               National Company Law Appellate Tribunal             ,2018,760
+               National Company Law Appellate Tribunal             ,2019,1331
+               National Company Law Appellate Tribunal             ,2020,834
+               Intellectual Property Appellate Board             ,2003,2
+               Intellectual Property Appellate Board             ,2004,90
+               Intellectual Property Appellate Board             ,2005,78
+               Intellectual Property Appellate Board             ,2006,44
+               Intellectual Property Appellate Board             ,2007,25
+               Intellectual Property Appellate Board             ,2008,25
+               Lok Sabha Debates             ,1998,1606
+               Lok Sabha Debates             ,1999,1019
+               Lok Sabha Debates             ,2000,1872
+               Lok Sabha Debates             ,2001,1606
+               Lok Sabha Debates             ,2002,1556
+               Lok Sabha Debates             ,2003,1792
+               Lok Sabha Debates             ,2004,1465
+               Lok Sabha Debates             ,2005,2845
+               Lok Sabha Debates             ,2006,2843
+               Lok Sabha Debates             ,2007,2065
+               Lok Sabha Debates             ,2008,1570
+               Lok Sabha Debates             ,2009,1910
+               Lok Sabha Debates             ,2010,2255
+               Lok Sabha Debates             ,2011,2521
+               Lok Sabha Debates             ,2012,2566
+               Lok Sabha Debates             ,2013,1906
+               Lok Sabha Debates             ,2014,3628
+               Lok Sabha Debates             ,2015,4011
+               Lok Sabha Debates             ,2016,3514
+               Lok Sabha Debates             ,2017,2599
+               Lok Sabha Debates             ,2018,2418
+               Lok Sabha Debates             ,2019,1207
+               Law Commission Report             ,1800,320
+               Trademark Tribunal             ,1978,1
+               Trademark Tribunal             ,2001,4
+               Trademark Tribunal             ,2002,7
+               Trademark Tribunal             ,2003,6
+               Trademark Tribunal             ,2004,1
+               Trademark Tribunal             ,2005,10
+               Trademark Tribunal             ,2006,16
+               Trademark Tribunal             ,2007,1
+"               Custom, Excise & Service Tax Tribunal             ",2008,2898
+"               Custom, Excise & Service Tax Tribunal             ",2009,3848
+"               Custom, Excise & Service Tax Tribunal             ",2010,4154
+"               Custom, Excise & Service Tax Tribunal             ",2011,3813
+"               Custom, Excise & Service Tax Tribunal             ",2012,4023
+"               Custom, Excise & Service Tax Tribunal             ",2013,5151
+"               Custom, Excise & Service Tax Tribunal             ",2014,6753
+"               Custom, Excise & Service Tax Tribunal             ",2015,7245
+"               Custom, Excise & Service Tax Tribunal             ",2016,11541
+"               Custom, Excise & Service Tax Tribunal             ",2017,3929
+"               Custom, Excise & Service Tax Tribunal             ",2018,6204
+"               Custom, Excise & Service Tax Tribunal             ",2019,6317
+"               Custom, Excise & Service Tax Tribunal             ",2020,5240
+               Telecom Disputes Settlement Tribunal             ,2003,19
+               Telecom Disputes Settlement Tribunal             ,2004,11
+               Telecom Disputes Settlement Tribunal             ,2005,26
+               Telecom Disputes Settlement Tribunal             ,2006,76
+               Telecom Disputes Settlement Tribunal             ,2007,24
+               Telecom Disputes Settlement Tribunal             ,2008,6
+               Telecom Disputes Settlement Tribunal             ,2014,75
+               Telecom Disputes Settlement Tribunal             ,2015,62
+               Telecom Disputes Settlement Tribunal             ,2016,47
+               Telecom Disputes Settlement Tribunal             ,2019,4
+               Telecom Disputes Settlement Tribunal             ,2020,22
+               Competition Commission of India             ,2010,48
+               Competition Commission of India             ,2011,128
+               Competition Commission of India             ,2012,132
+               Competition Commission of India             ,2013,143
+               Competition Commission of India             ,2014,155
+               Competition Commission of India             ,2015,139
+               Competition Commission of India             ,2016,54
+               Competition Commission of India             ,2017,68
+               Competition Commission of India             ,2018,74
+               Competition Commission of India             ,2019,45
+               Competition Commission of India             ,2020,48
+               National Green Tribunal             ,2011,18
+               National Green Tribunal             ,2012,83
+               National Green Tribunal             ,2013,150
+               National Green Tribunal             ,2014,209
+               Debt Recovery Appellate Tribunal             ,1997,1
+               Debt Recovery Appellate Tribunal             ,1998,3
+               Debt Recovery Appellate Tribunal             ,2000,1
+               Debt Recovery Appellate Tribunal             ,2001,46
+               Debt Recovery Appellate Tribunal             ,2002,104
+               Debt Recovery Appellate Tribunal             ,2003,117
+               Debt Recovery Appellate Tribunal             ,2004,125
+               Debt Recovery Appellate Tribunal             ,2005,116
+               Debt Recovery Appellate Tribunal             ,2006,106
+               Debt Recovery Appellate Tribunal             ,2007,50
+               Debt Recovery Appellate Tribunal             ,2008,1
+               Central Electricity Regulatory Commission             ,2006,129
+               Central Electricity Regulatory Commission             ,2007,76
+               Central Electricity Regulatory Commission             ,2008,75
+               Copyright Board             ,2001,1
+               Copyright Board             ,2002,6
+               Copyright Board             ,2004,4
+               Copyright Board             ,2005,3
+               Copyright Board             ,2006,2
+               Central Administrative Tribunal             ,1995,1
+               Central Administrative Tribunal             ,1997,3
+               Central Administrative Tribunal             ,1998,72
+               Central Administrative Tribunal             ,1999,181
+               Central Administrative Tribunal             ,2000,138
+               Central Administrative Tribunal             ,2001,131
+               Central Administrative Tribunal             ,2002,192
+               Central Administrative Tribunal             ,2003,99
+               Central Administrative Tribunal             ,2004,109
+               Central Administrative Tribunal             ,2005,111
+               Central Administrative Tribunal             ,2006,367
+               Central Administrative Tribunal             ,2007,628
+               Central Administrative Tribunal             ,2008,1791
+               Central Administrative Tribunal             ,2009,3868
+               Central Administrative Tribunal             ,2010,4060
+               Central Administrative Tribunal             ,2011,6904
+               Central Administrative Tribunal             ,2012,5456
+               Central Administrative Tribunal             ,2013,5456
+               Central Administrative Tribunal             ,2014,3145
+               Central Administrative Tribunal             ,2015,3276
+               Central Administrative Tribunal             ,2016,2908
+               Central Administrative Tribunal             ,2017,4674
+               Central Administrative Tribunal             ,2018,12794
+               Central Administrative Tribunal             ,2019,7432
+               Central Administrative Tribunal             ,2020,3556
+               Consumer Disputes Redressal             ,1800,2
+               Consumer Disputes Redressal             ,1989,3
+               Consumer Disputes Redressal             ,1990,6
+               Consumer Disputes Redressal             ,1991,5
+               Consumer Disputes Redressal             ,1992,19
+               Consumer Disputes Redressal             ,1993,3
+               Consumer Disputes Redressal             ,1994,29
+               Consumer Disputes Redressal             ,1995,12
+               Consumer Disputes Redressal             ,1996,13
+               Consumer Disputes Redressal             ,1997,24
+               Consumer Disputes Redressal             ,1998,3
+               Consumer Disputes Redressal             ,1999,2
+               Consumer Disputes Redressal             ,2000,50
+               Consumer Disputes Redressal             ,2001,356
+               Consumer Disputes Redressal             ,2002,562
+               Consumer Disputes Redressal             ,2003,402
+               Consumer Disputes Redressal             ,2004,356
+               Consumer Disputes Redressal             ,2005,483
+               Consumer Disputes Redressal             ,2006,1765
+               Consumer Disputes Redressal             ,2007,3335
+               Consumer Disputes Redressal             ,2008,5215
+               Consumer Disputes Redressal             ,2009,8754
+               Consumer Disputes Redressal             ,2010,12236
+               Consumer Disputes Redressal             ,2011,12522
+               Consumer Disputes Redressal             ,2012,14213
+               Consumer Disputes Redressal             ,2013,14983
+               Consumer Disputes Redressal             ,2014,8793
+               Consumer Disputes Redressal             ,2015,11618
+               Consumer Disputes Redressal             ,2016,3152
+               Consumer Disputes Redressal             ,2017,19468
+               Consumer Disputes Redressal             ,2018,11774
+               Consumer Disputes Redressal             ,2019,8380
+               Consumer Disputes Redressal             ,2020,4860
+               Company Law Board             ,1991,20
+               Company Law Board             ,1992,9
+               Company Law Board             ,1993,16
+               Company Law Board             ,1994,22
+               Company Law Board             ,1995,27
+               Company Law Board             ,1996,9
+               Company Law Board             ,1997,47
+               Company Law Board             ,1998,49
+               Company Law Board             ,1999,48
+               Company Law Board             ,2000,44
+               Company Law Board             ,2001,82
+               Company Law Board             ,2002,99
+               Company Law Board             ,2003,51
+               Company Law Board             ,2004,112
+               Company Law Board             ,2005,85
+               Company Law Board             ,2006,102
+               Company Law Board             ,2007,90
+               Company Law Board             ,2008,19
+               Central Information Commission             ,2006,91
+               Central Information Commission             ,2007,18
+               Central Information Commission             ,2008,4725
+               Central Information Commission             ,2009,15838
+               Central Information Commission             ,2010,18562
+               Central Information Commission             ,2011,21480
+               Central Information Commission             ,2012,24097
+               Central Information Commission             ,2013,21284
+               Central Information Commission             ,2014,14621
+               Central Information Commission             ,2015,15571
+               Central Information Commission             ,2016,21991
+               Central Information Commission             ,2017,15039
+               Central Information Commission             ,2018,11649
+               Central Information Commission             ,2019,15744
+               Central Information Commission             ,2020,12365
+"               Customs, Excise and Gold Tribunal             ",1800,56
+"               Customs, Excise and Gold Tribunal             ",1911,1
+"               Customs, Excise and Gold Tribunal             ",1974,1
+"               Customs, Excise and Gold Tribunal             ",1976,3
+"               Customs, Excise and Gold Tribunal             ",1977,1
+"               Customs, Excise and Gold Tribunal             ",1978,1
+"               Customs, Excise and Gold Tribunal             ",1979,3
+"               Customs, Excise and Gold Tribunal             ",1980,1
+"               Customs, Excise and Gold Tribunal             ",1981,1
+"               Customs, Excise and Gold Tribunal             ",1982,36
+"               Customs, Excise and Gold Tribunal             ",1983,712
+"               Customs, Excise and Gold Tribunal             ",1984,494
+"               Customs, Excise and Gold Tribunal             ",1985,542
+"               Customs, Excise and Gold Tribunal             ",1986,583
+"               Customs, Excise and Gold Tribunal             ",1987,1027
+"               Customs, Excise and Gold Tribunal             ",1988,741
+"               Customs, Excise and Gold Tribunal             ",1989,621
+"               Customs, Excise and Gold Tribunal             ",1990,794
+"               Customs, Excise and Gold Tribunal             ",1991,690
+"               Customs, Excise and Gold Tribunal             ",1992,716
+"               Customs, Excise and Gold Tribunal             ",1993,641
+"               Customs, Excise and Gold Tribunal             ",1994,882
+"               Customs, Excise and Gold Tribunal             ",1995,933
+"               Customs, Excise and Gold Tribunal             ",1996,1522
+"               Customs, Excise and Gold Tribunal             ",1997,1983
+"               Customs, Excise and Gold Tribunal             ",1998,2400
+"               Customs, Excise and Gold Tribunal             ",1999,2519
+"               Customs, Excise and Gold Tribunal             ",2000,2758
+"               Customs, Excise and Gold Tribunal             ",2001,6736
+"               Customs, Excise and Gold Tribunal             ",2002,2646
+"               Customs, Excise and Gold Tribunal             ",2003,3875
+"               Customs, Excise and Gold Tribunal             ",2004,3976
+"               Customs, Excise and Gold Tribunal             ",2005,3734
+"               Customs, Excise and Gold Tribunal             ",2006,3151
+"               Customs, Excise and Gold Tribunal             ",2007,2231
+"               Customs, Excise and Gold Tribunal             ",2008,587
+               Authority Tribunal             ,1994,4
+               Authority Tribunal             ,1995,9
+               Authority Tribunal             ,1996,15
+               Authority Tribunal             ,1997,12
+               Authority Tribunal             ,1998,7
+               Authority Tribunal             ,1999,7
+               Authority Tribunal             ,2000,1
+               Authority Tribunal             ,2001,5
+               Authority Tribunal             ,2004,49
+               Authority Tribunal             ,2005,41
+               Authority Tribunal             ,2006,36
+               Authority Tribunal             ,2007,16
+               Authority Tribunal             ,2008,11
+               Appellate Tribunal For Electricity             ,2005,4
+               Appellate Tribunal For Electricity             ,2006,78
+               Appellate Tribunal For Electricity             ,2007,66
+               Appellate Tribunal For Electricity             ,2008,84
+               Appellate Tribunal For Electricity             ,2009,184
+               Appellate Tribunal For Electricity             ,2010,133
+               Appellate Tribunal For Electricity             ,2011,220
+               Appellate Tribunal For Electricity             ,2012,234
+               Appellate Tribunal For Electricity             ,2013,211
+               Appellate Tribunal For Electricity             ,2014,259
+               Appellate Tribunal For Electricity             ,2015,180
+               Appellate Tribunal For Electricity             ,2016,190
+               Appellate Tribunal For Electricity             ,2017,88
+               Appellate Tribunal For Electricity             ,2018,161
+               Appellate Tribunal For Electricity             ,2019,139
+               Appellate Tribunal For Electricity             ,2020,81
+               Bangalore District Court             ,2015,42837
+               Bangalore District Court             ,2016,1753
+               Bangalore District Court             ,2017,6782
+               Bangalore District Court             ,2018,9738
+               Bangalore District Court             ,2019,7422
+               Bangalore District Court             ,2020,9056
+               Delhi High Court - Orders             ,2018,1021
+               Delhi High Court - Orders             ,2020,61551
+               Delhi District Court             ,2007,22892
+               Delhi District Court             ,2008,15389
+               Delhi District Court             ,2009,14351
+               Delhi District Court             ,2010,27655
+               Delhi District Court             ,2011,38894
+               Delhi District Court             ,2012,40279
+               Delhi District Court             ,2013,37606
+               Delhi District Court             ,2014,33758
+               Delhi District Court             ,2015,21698
+               Delhi District Court             ,2016,17533
+               Delhi District Court             ,2017,12197
+               Delhi District Court             ,2018,23348
+               Delhi District Court             ,2019,18419
+               Delhi District Court             ,2020,10689
+               Telangana High Court             ,2018,45394
+               Telangana High Court             ,2019,24641
+               Telangana High Court             ,2020,16004
+               Manipur High Court             ,2020,5616
+               Tripura High Court             ,2017,11351
+               Tripura High Court             ,2018,13579
+               Tripura High Court             ,2019,11598
+               Tripura High Court             ,2020,7160
+               High Court of Meghalaya             ,2013,214
+               High Court of Meghalaya             ,2014,421
+               High Court of Meghalaya             ,2015,302
+               High Court of Meghalaya             ,2016,789
+               High Court of Meghalaya             ,2017,798
+               High Court of Meghalaya             ,2018,7026
+               High Court of Meghalaya             ,2019,9762
+               High Court of Meghalaya             ,2020,3421
+               Jammu & Kashmir High Court - Srinagar Bench             ,5,1
+               Jammu & Kashmir High Court - Srinagar Bench             ,8,5
+               Jammu & Kashmir High Court - Srinagar Bench             ,9,5
+               Jammu & Kashmir High Court - Srinagar Bench             ,1800,4
+               Jammu & Kashmir High Court - Srinagar Bench             ,2005,2
+               Jammu & Kashmir High Court - Srinagar Bench             ,2006,4
+               Jammu & Kashmir High Court - Srinagar Bench             ,2007,3
+               Jammu & Kashmir High Court - Srinagar Bench             ,2008,9
+               Jammu & Kashmir High Court - Srinagar Bench             ,2009,50
+               Jammu & Kashmir High Court - Srinagar Bench             ,2010,198
+               Jammu & Kashmir High Court - Srinagar Bench             ,2011,197
+               Jammu & Kashmir High Court - Srinagar Bench             ,2012,228
+               Jammu & Kashmir High Court - Srinagar Bench             ,2013,199
+               Jammu & Kashmir High Court - Srinagar Bench             ,2014,137
+               Jammu & Kashmir High Court - Srinagar Bench             ,2015,317
+               Jammu & Kashmir High Court - Srinagar Bench             ,2016,137
+               Jammu & Kashmir High Court - Srinagar Bench             ,2017,1090
+               Jammu & Kashmir High Court - Srinagar Bench             ,2018,1668
+               Jammu & Kashmir High Court - Srinagar Bench             ,2019,14301
+               Jammu & Kashmir High Court - Srinagar Bench             ,2020,18741
+               Jammu & Kashmir High Court - Srinagar Bench             ,2205,1
+               Patna High Court - Orders             ,2008,58071
+               Patna High Court - Orders             ,2009,92541
+               Patna High Court - Orders             ,2010,134930
+               Patna High Court - Orders             ,2011,151027
+               Patna High Court - Orders             ,2012,127083
+               Patna High Court - Orders             ,2013,105475
+               Patna High Court - Orders             ,2014,147414
+               Patna High Court - Orders             ,2015,171343
+               Patna High Court - Orders             ,2016,161607
+               Patna High Court - Orders             ,2017,167953
+               Patna High Court - Orders             ,2018,223170
+               Patna High Court - Orders             ,2019,218731
+               Patna High Court - Orders             ,2020,91577
+               Rajasthan High Court - Jodhpur             ,2008,4049
+               Rajasthan High Court - Jodhpur             ,2009,5068
+               Rajasthan High Court - Jodhpur             ,2010,2077
+               Rajasthan High Court - Jodhpur             ,2011,2883
+               Rajasthan High Court - Jodhpur             ,2012,4277
+               Rajasthan High Court - Jodhpur             ,2013,5759
+               Rajasthan High Court - Jodhpur             ,2014,4541
+               Rajasthan High Court - Jodhpur             ,2015,13734
+               Rajasthan High Court - Jodhpur             ,2016,15651
+               Rajasthan High Court - Jodhpur             ,2017,38006
+               Rajasthan High Court - Jodhpur             ,2018,58862
+               Rajasthan High Court - Jodhpur             ,2019,107465
+               Rajasthan High Court - Jodhpur             ,2020,83792
+               Calcutta High Court (Appellete Side)             ,2008,744
+               Calcutta High Court (Appellete Side)             ,2009,1010
+               Calcutta High Court (Appellete Side)             ,2010,38431
+               Calcutta High Court (Appellete Side)             ,2011,23758
+               Calcutta High Court (Appellete Side)             ,2013,89928
+               Calcutta High Court (Appellete Side)             ,2014,97722
+               Calcutta High Court (Appellete Side)             ,2015,74478
+               Calcutta High Court (Appellete Side)             ,2016,64554
+               Calcutta High Court (Appellete Side)             ,2017,83619
+               Calcutta High Court (Appellete Side)             ,2018,80193
+               Calcutta High Court (Appellete Side)             ,2019,111790
+               Calcutta High Court (Appellete Side)             ,2020,34308
+               Uttarakhand High Court             ,2001,56
+               Uttarakhand High Court             ,2002,35
+               Uttarakhand High Court             ,2003,78
+               Uttarakhand High Court             ,2004,163
+               Uttarakhand High Court             ,2005,161
+               Uttarakhand High Court             ,2006,139
+               Uttarakhand High Court             ,2007,149
+               Uttarakhand High Court             ,2008,17
+               Uttarakhand High Court             ,2009,1
+               Uttarakhand High Court             ,2011,7
+               Uttarakhand High Court             ,2012,11572
+               Uttarakhand High Court             ,2013,23918
+               Uttarakhand High Court             ,2014,20390
+               Uttarakhand High Court             ,2015,11326
+               Uttarakhand High Court             ,2016,4254
+               Uttarakhand High Court             ,2017,7227
+               Uttarakhand High Court             ,2018,11775
+               Uttarakhand High Court             ,2019,15328
+               Sikkim High Court             ,1977,2
+               Sikkim High Court             ,1978,6
+               Sikkim High Court             ,1979,3
+               Sikkim High Court             ,1990,2
+               Sikkim High Court             ,1991,2
+               Sikkim High Court             ,1993,4
+               Sikkim High Court             ,1994,1
+               Sikkim High Court             ,1996,3
+               Sikkim High Court             ,1997,5
+               Sikkim High Court             ,1998,3
+               Sikkim High Court             ,1999,3
+               Sikkim High Court             ,2000,18
+               Sikkim High Court             ,2001,14
+               Sikkim High Court             ,2002,5
+               Sikkim High Court             ,2003,20
+               Sikkim High Court             ,2004,25
+               Sikkim High Court             ,2005,10
+               Sikkim High Court             ,2006,14
+               Sikkim High Court             ,2007,3
+               Uttarakhand High Court             ,2020,37300
+               Rajasthan High Court             ,1800,8
+               Rajasthan High Court             ,1882,1
+               Rajasthan High Court             ,1889,2
+               Rajasthan High Court             ,1915,1
+               Rajasthan High Court             ,1948,5
+               Rajasthan High Court             ,1949,44
+               Rajasthan High Court             ,1950,86
+               Rajasthan High Court             ,1951,101
+               Rajasthan High Court             ,1952,118
+               Rajasthan High Court             ,1953,69
+               Rajasthan High Court             ,1954,62
+               Rajasthan High Court             ,1955,81
+               Rajasthan High Court             ,1956,142
+               Rajasthan High Court             ,1957,120
+               Rajasthan High Court             ,1958,94
+               Rajasthan High Court             ,1959,102
+               Rajasthan High Court             ,1960,119
+               Rajasthan High Court             ,1961,71
+               Rajasthan High Court             ,1962,74
+               Rajasthan High Court             ,1963,77
+               Rajasthan High Court             ,1964,100
+               Rajasthan High Court             ,1965,100
+               Rajasthan High Court             ,1966,69
+               Rajasthan High Court             ,1967,63
+               Rajasthan High Court             ,1968,145
+               Rajasthan High Court             ,1969,171
+               Rajasthan High Court             ,1970,176
+               Rajasthan High Court             ,1971,182
+               Rajasthan High Court             ,1972,225
+               Rajasthan High Court             ,1973,173
+               Rajasthan High Court             ,1974,244
+               Rajasthan High Court             ,1975,286
+               Rajasthan High Court             ,1976,215
+               Rajasthan High Court             ,1977,266
+               Rajasthan High Court             ,1978,278
+               Rajasthan High Court             ,1979,274
+               Rajasthan High Court             ,1980,285
+               Rajasthan High Court             ,1981,257
+               Rajasthan High Court             ,1982,278
+               Rajasthan High Court             ,1983,284
+               Rajasthan High Court             ,1984,414
+               Rajasthan High Court             ,1985,706
+               Rajasthan High Court             ,1986,720
+               Rajasthan High Court             ,1987,710
+               Rajasthan High Court             ,1988,530
+               Rajasthan High Court             ,1989,501
+               Rajasthan High Court             ,1990,383
+               Rajasthan High Court             ,1991,514
+               Rajasthan High Court             ,1992,561
+               Rajasthan High Court             ,1993,362
+               Rajasthan High Court             ,1994,529
+               Rajasthan High Court             ,1995,510
+               Rajasthan High Court             ,1996,484
+               Rajasthan High Court             ,1997,553
+               Rajasthan High Court             ,1998,443
+               Rajasthan High Court             ,1999,455
+               Rajasthan High Court             ,2000,785
+               Rajasthan High Court             ,2001,1275
+               Rajasthan High Court             ,2002,1151
+               Rajasthan High Court             ,2003,773
+               Rajasthan High Court             ,2004,642
+               Rajasthan High Court             ,2005,821
+               Rajasthan High Court             ,2006,824
+               Rajasthan High Court             ,2007,729
+               Rajasthan High Court             ,2008,603
+               Rajasthan High Court             ,2009,4289
+               Rajasthan High Court             ,2010,11023
+               Rajasthan High Court             ,2011,17692
+               Rajasthan High Court             ,2012,21403
+               Rajasthan High Court             ,2013,16293
+               Rajasthan High Court             ,2014,5568
+               Rajasthan High Court             ,2015,8544
+               Rajasthan High Court             ,2016,16729
+               Rajasthan High Court             ,2017,37684
+               Rajasthan High Court             ,2018,59996
+               Rajasthan High Court             ,2019,92631
+               Rajasthan High Court             ,2020,87960
+               Punjab-Haryana High Court             ,1800,6
+               Punjab-Haryana High Court             ,1905,1
+               Punjab-Haryana High Court             ,1906,1
+               Punjab-Haryana High Court             ,1907,2
+               Punjab-Haryana High Court             ,1911,2
+               Punjab-Haryana High Court             ,1948,8
+               Punjab-Haryana High Court             ,1949,41
+               Punjab-Haryana High Court             ,1950,37
+               Punjab-Haryana High Court             ,1951,162
+               Punjab-Haryana High Court             ,1952,148
+               Punjab-Haryana High Court             ,1953,170
+               Punjab-Haryana High Court             ,1954,129
+               Punjab-Haryana High Court             ,1955,77
+               Punjab-Haryana High Court             ,1956,124
+               Punjab-Haryana High Court             ,1957,186
+               Punjab-Haryana High Court             ,1958,192
+               Punjab-Haryana High Court             ,1959,245
+               Punjab-Haryana High Court             ,1960,237
+               Punjab-Haryana High Court             ,1961,239
+               Punjab-Haryana High Court             ,1962,165
+               Punjab-Haryana High Court             ,1963,113
+               Punjab-Haryana High Court             ,1964,151
+               Punjab-Haryana High Court             ,1965,254
+               Punjab-Haryana High Court             ,1966,194
+               Punjab-Haryana High Court             ,1967,104
+               Punjab-Haryana High Court             ,1968,136
+               Punjab-Haryana High Court             ,1969,117
+               Punjab-Haryana High Court             ,1970,203
+               Punjab-Haryana High Court             ,1971,207
+               Punjab-Haryana High Court             ,1972,248
+               Punjab-Haryana High Court             ,1973,132
+               Punjab-Haryana High Court             ,1974,148
+               Punjab-Haryana High Court             ,1975,93
+               Punjab-Haryana High Court             ,1976,145
+               Punjab-Haryana High Court             ,1977,129
+               Punjab-Haryana High Court             ,1978,134
+               Punjab-Haryana High Court             ,1979,184
+               Punjab-Haryana High Court             ,1980,224
+               Punjab-Haryana High Court             ,1981,216
+               Punjab-Haryana High Court             ,1982,232
+               Punjab-Haryana High Court             ,1983,233
+               Punjab-Haryana High Court             ,1984,326
+               Punjab-Haryana High Court             ,1985,277
+               Punjab-Haryana High Court             ,1986,202
+               Punjab-Haryana High Court             ,1987,187
+               Punjab-Haryana High Court             ,1988,247
+               Punjab-Haryana High Court             ,1989,565
+               Punjab-Haryana High Court             ,1990,602
+               Punjab-Haryana High Court             ,1991,493
+               Punjab-Haryana High Court             ,1992,690
+               Punjab-Haryana High Court             ,1993,886
+               Punjab-Haryana High Court             ,1994,768
+               Punjab-Haryana High Court             ,1995,869
+               Punjab-Haryana High Court             ,1996,967
+               Punjab-Haryana High Court             ,1997,1000
+               Punjab-Haryana High Court             ,1998,993
+               Punjab-Haryana High Court             ,1999,1014
+               Punjab-Haryana High Court             ,2000,1118
+               Punjab-Haryana High Court             ,2001,622
+               Punjab-Haryana High Court             ,2002,858
+               Punjab-Haryana High Court             ,2003,1335
+               Punjab-Haryana High Court             ,2004,912
+               Punjab-Haryana High Court             ,2005,836
+               Punjab-Haryana High Court             ,2006,1642
+               Punjab-Haryana High Court             ,2007,1229
+               Punjab-Haryana High Court             ,2008,14527
+               Punjab-Haryana High Court             ,2009,48572
+               Punjab-Haryana High Court             ,2010,4
+               Punjab-Haryana High Court             ,2011,49206
+               Punjab-Haryana High Court             ,2012,78764
+               Punjab-Haryana High Court             ,2013,99514
+               Punjab-Haryana High Court             ,2014,85734
+               Punjab-Haryana High Court             ,2015,79016
+               Punjab-Haryana High Court             ,2016,88486
+               Punjab-Haryana High Court             ,2017,82193
+               Punjab-Haryana High Court             ,2018,115009
+               Punjab-Haryana High Court             ,2019,115206
+               Punjab-Haryana High Court             ,2020,62666
+               Patna High Court             ,1800,18
+               Patna High Court             ,1910,1
+               Patna High Court             ,1914,1
+               Patna High Court             ,1916,24
+               Patna High Court             ,1917,193
+               Patna High Court             ,1918,118
+               Patna High Court             ,1919,116
+               Patna High Court             ,1920,120
+               Patna High Court             ,1921,207
+               Patna High Court             ,1922,108
+               Patna High Court             ,1923,93
+               Patna High Court             ,1924,104
+               Patna High Court             ,1925,124
+               Patna High Court             ,1926,71
+               Patna High Court             ,1927,88
+               Patna High Court             ,1928,78
+               Patna High Court             ,1929,148
+               Patna High Court             ,1930,30
+               Patna High Court             ,1931,19
+               Patna High Court             ,1932,18
+               Patna High Court             ,1933,65
+               Patna High Court             ,1934,30
+               Patna High Court             ,1935,10
+               Patna High Court             ,1936,52
+               Patna High Court             ,1937,132
+               Patna High Court             ,1938,15
+               Patna High Court             ,1939,6
+               Patna High Court             ,1940,5
+               Patna High Court             ,1941,11
+               Patna High Court             ,1942,14
+               Patna High Court             ,1943,6
+               Patna High Court             ,1944,11
+               Patna High Court             ,1945,6
+               Patna High Court             ,1946,12
+               Patna High Court             ,1947,11
+               Patna High Court             ,1948,58
+               Patna High Court             ,1949,111
+               Patna High Court             ,1950,172
+               Patna High Court             ,1951,144
+               Patna High Court             ,1952,153
+               Patna High Court             ,1953,208
+               Patna High Court             ,1954,155
+               Patna High Court             ,1955,155
+               Patna High Court             ,1956,176
+               Patna High Court             ,1957,252
+               Patna High Court             ,1958,198
+               Patna High Court             ,1959,162
+               Patna High Court             ,1960,232
+               Patna High Court             ,1961,152
+               Patna High Court             ,1962,141
+               Patna High Court             ,1963,151
+               Patna High Court             ,1964,200
+               Patna High Court             ,1965,145
+               Patna High Court             ,1966,221
+               Patna High Court             ,1967,186
+               Patna High Court             ,1968,237
+               Patna High Court             ,1969,171
+               Patna High Court             ,1970,107
+               Patna High Court             ,1971,130
+               Patna High Court             ,1972,202
+               Patna High Court             ,1973,160
+               Patna High Court             ,1974,165
+               Patna High Court             ,1975,141
+               Patna High Court             ,1976,166
+               Patna High Court             ,1977,204
+               Patna High Court             ,1978,184
+               Patna High Court             ,1979,117
+               Patna High Court             ,1980,157
+               Patna High Court             ,1981,135
+               Patna High Court             ,1982,149
+               Patna High Court             ,1983,252
+               Patna High Court             ,1984,301
+               Patna High Court             ,1985,244
+               Patna High Court             ,1986,205
+               Patna High Court             ,1987,187
+               Patna High Court             ,1988,221
+               Patna High Court             ,1989,261
+               Patna High Court             ,1990,246
+               Patna High Court             ,1991,229
+               Patna High Court             ,1992,188
+               Patna High Court             ,1993,232
+               Patna High Court             ,1994,176
+               Patna High Court             ,1995,269
+               Patna High Court             ,1996,338
+               Patna High Court             ,1997,398
+               Patna High Court             ,1998,462
+               Patna High Court             ,1999,571
+               Patna High Court             ,2000,564
+               Patna High Court             ,2001,397
+               Patna High Court             ,2002,476
+               Patna High Court             ,2003,413
+               Patna High Court             ,2004,442
+               Patna High Court             ,2005,436
+               Patna High Court             ,2006,465
+               Patna High Court             ,2007,466
+               Patna High Court             ,2008,986
+               Patna High Court             ,2009,770
+               Patna High Court             ,2010,2670
+               Patna High Court             ,2011,2657
+               Patna High Court             ,2012,1407
+               Patna High Court             ,2013,976
+               Patna High Court             ,2014,1539
+               Patna High Court             ,2015,9231
+               Patna High Court             ,2016,9988
+               Patna High Court             ,2017,15638
+               Patna High Court             ,2018,15178
+               Patna High Court             ,2019,9017
+               Patna High Court             ,2020,4005
+               Orissa High Court             ,1800,7
+               Orissa High Court             ,1946,1
+               Orissa High Court             ,1947,1
+               Orissa High Court             ,1948,15
+               Orissa High Court             ,1949,67
+               Orissa High Court             ,1950,87
+               Orissa High Court             ,1951,60
+               Orissa High Court             ,1952,77
+               Orissa High Court             ,1953,80
+               Orissa High Court             ,1954,70
+               Orissa High Court             ,1955,60
+               Orissa High Court             ,1956,76
+               Orissa High Court             ,1957,88
+               Orissa High Court             ,1958,88
+               Orissa High Court             ,1959,74
+               Orissa High Court             ,1960,124
+               Orissa High Court             ,1961,71
+               Orissa High Court             ,1962,82
+               Orissa High Court             ,1963,121
+               Orissa High Court             ,1964,127
+               Orissa High Court             ,1965,102
+               Orissa High Court             ,1966,81
+               Orissa High Court             ,1967,67
+               Orissa High Court             ,1968,137
+               Orissa High Court             ,1969,151
+               Orissa High Court             ,1970,130
+               Orissa High Court             ,1971,121
+               Orissa High Court             ,1972,150
+               Orissa High Court             ,1973,138
+               Orissa High Court             ,1974,140
+               Orissa High Court             ,1975,151
+               Orissa High Court             ,1976,113
+               Orissa High Court             ,1977,132
+               Orissa High Court             ,1978,82
+               Orissa High Court             ,1979,86
+               Orissa High Court             ,1980,83
+               Orissa High Court             ,1981,175
+               Orissa High Court             ,1982,160
+               Orissa High Court             ,1983,147
+               Orissa High Court             ,1984,251
+               Orissa High Court             ,1985,328
+               Orissa High Court             ,1986,362
+               Orissa High Court             ,1987,206
+               Orissa High Court             ,1988,157
+               Orissa High Court             ,1989,174
+               Orissa High Court             ,1990,276
+               Orissa High Court             ,1991,456
+               Orissa High Court             ,1992,332
+               Orissa High Court             ,1993,328
+               Orissa High Court             ,1994,363
+               Orissa High Court             ,1995,362
+               Orissa High Court             ,1996,349
+               Orissa High Court             ,1997,249
+               Orissa High Court             ,1998,378
+               Orissa High Court             ,1999,291
+               Orissa High Court             ,2000,412
+               Orissa High Court             ,2001,381
+               Orissa High Court             ,2002,510
+               Orissa High Court             ,2003,462
+               Orissa High Court             ,2004,344
+               Orissa High Court             ,2005,489
+               Orissa High Court             ,2006,415
+               Orissa High Court             ,2007,469
+               Orissa High Court             ,2008,251
+               Orissa High Court             ,2009,96
+               Orissa High Court             ,2010,367
+               Orissa High Court             ,2011,418
+               Orissa High Court             ,2012,415
+               Orissa High Court             ,2013,3103
+               Orissa High Court             ,2014,2184
+               Orissa High Court             ,2015,408
+               Orissa High Court             ,2016,535
+               Orissa High Court             ,2017,1290
+               Orissa High Court             ,2018,22023
+               Orissa High Court             ,2019,7791
+               Orissa High Court             ,2020,90651
+               Madhya Pradesh High Court             ,1800,2
+               Madhya Pradesh High Court             ,1941,1
+               Madhya Pradesh High Court             ,1951,28
+               Madhya Pradesh High Court             ,1952,56
+               Madhya Pradesh High Court             ,1953,33
+               Madhya Pradesh High Court             ,1954,22
+               Madhya Pradesh High Court             ,1955,31
+               Madhya Pradesh High Court             ,1956,58
+               Madhya Pradesh High Court             ,1957,206
+               Madhya Pradesh High Court             ,1958,159
+               Madhya Pradesh High Court             ,1959,204
+               Madhya Pradesh High Court             ,1960,205
+               Madhya Pradesh High Court             ,1961,137
+               Madhya Pradesh High Court             ,1962,154
+               Madhya Pradesh High Court             ,1963,104
+               Madhya Pradesh High Court             ,1964,97
+               Madhya Pradesh High Court             ,1965,103
+               Madhya Pradesh High Court             ,1966,95
+               Madhya Pradesh High Court             ,1967,81
+               Madhya Pradesh High Court             ,1968,111
+               Madhya Pradesh High Court             ,1969,68
+               Madhya Pradesh High Court             ,1970,92
+               Madhya Pradesh High Court             ,1971,102
+               Madhya Pradesh High Court             ,1972,98
+               Madhya Pradesh High Court             ,1973,65
+               Madhya Pradesh High Court             ,1974,67
+               Madhya Pradesh High Court             ,1975,96
+               Madhya Pradesh High Court             ,1976,54
+               Madhya Pradesh High Court             ,1977,65
+               Madhya Pradesh High Court             ,1978,140
+               Madhya Pradesh High Court             ,1979,126
+               Madhya Pradesh High Court             ,1980,209
+               Madhya Pradesh High Court             ,1981,153
+               Madhya Pradesh High Court             ,1982,189
+               Madhya Pradesh High Court             ,1983,200
+               Madhya Pradesh High Court             ,1984,170
+               Madhya Pradesh High Court             ,1985,238
+               Madhya Pradesh High Court             ,1986,254
+               Madhya Pradesh High Court             ,1987,315
+               Madhya Pradesh High Court             ,1988,261
+               Madhya Pradesh High Court             ,1989,363
+               Madhya Pradesh High Court             ,1990,348
+               Madhya Pradesh High Court             ,1991,400
+               Madhya Pradesh High Court             ,1992,320
+               Madhya Pradesh High Court             ,1993,306
+               Madhya Pradesh High Court             ,1994,425
+               Madhya Pradesh High Court             ,1995,552
+               Madhya Pradesh High Court             ,1996,745
+               Madhya Pradesh High Court             ,1997,506
+               Madhya Pradesh High Court             ,1998,448
+               Madhya Pradesh High Court             ,1999,536
+               Madhya Pradesh High Court             ,2000,756
+               Madhya Pradesh High Court             ,2001,621
+               Madhya Pradesh High Court             ,2002,739
+               Madhya Pradesh High Court             ,2003,855
+               Madhya Pradesh High Court             ,2004,683
+               Madhya Pradesh High Court             ,2005,771
+               Madhya Pradesh High Court             ,2006,757
+               Madhya Pradesh High Court             ,2007,587
+               Madhya Pradesh High Court             ,2008,183
+               Madhya Pradesh High Court             ,2009,86
+               Madhya Pradesh High Court             ,2010,3566
+               Madhya Pradesh High Court             ,2011,1919
+               Madhya Pradesh High Court             ,2012,11081
+               Madhya Pradesh High Court             ,2013,13390
+               Madhya Pradesh High Court             ,2014,63382
+               Madhya Pradesh High Court             ,2015,319949
+               Madhya Pradesh High Court             ,2016,318740
+               Madhya Pradesh High Court             ,2017,486813
+               Madhya Pradesh High Court             ,2018,372985
+               Madhya Pradesh High Court             ,2019,277778
+               Madhya Pradesh High Court             ,2020,241730
+               Calcutta High Court             ,1800,26
+               Calcutta High Court             ,1844,1
+               Calcutta High Court             ,1869,2
+               Calcutta High Court             ,1873,1
+               Calcutta High Court             ,1874,1
+               Calcutta High Court             ,1875,24
+               Calcutta High Court             ,1876,61
+               Calcutta High Court             ,1877,84
+               Calcutta High Court             ,1878,220
+               Calcutta High Court             ,1879,148
+               Calcutta High Court             ,1880,176
+               Calcutta High Court             ,1881,224
+               Calcutta High Court             ,1882,233
+               Calcutta High Court             ,1883,145
+               Calcutta High Court             ,1884,155
+               Calcutta High Court             ,1885,200
+               Calcutta High Court             ,1886,164
+               Calcutta High Court             ,1887,137
+               Kerala High Court             ,1,13
+               Kerala High Court             ,2,24
+               Kerala High Court             ,3,15
+               Kerala High Court             ,4,35
+               Kerala High Court             ,5,33
+               Calcutta High Court             ,1888,94
+               Calcutta High Court             ,1889,123
+               Calcutta High Court             ,1890,89
+               Calcutta High Court             ,1891,107
+               Calcutta High Court             ,1892,100
+               Calcutta High Court             ,1893,109
+               Calcutta High Court             ,1894,115
+               Calcutta High Court             ,1895,136
+               Calcutta High Court             ,1896,141
+               Calcutta High Court             ,1897,168
+               Calcutta High Court             ,1898,106
+               Calcutta High Court             ,1899,155
+               Calcutta High Court             ,1900,149
+               Calcutta High Court             ,1901,111
+               Calcutta High Court             ,1902,84
+               Calcutta High Court             ,1903,56
+               Calcutta High Court             ,1904,90
+               Calcutta High Court             ,1905,57
+               Calcutta High Court             ,1906,117
+               Kerala High Court             ,6,40
+               Kerala High Court             ,7,56
+               Kerala High Court             ,8,75
+               Kerala High Court             ,9,78
+               Kerala High Court             ,10,54
+               Kerala High Court             ,11,62
+               Kerala High Court             ,12,122
+               Kerala High Court             ,13,119
+               Kerala High Court             ,14,160
+               Kerala High Court             ,15,264
+               Kerala High Court             ,16,495
+               Kerala High Court             ,17,432
+               Kerala High Court             ,18,116
+               Kerala High Court             ,39,1
+               Kerala High Court             ,51,1
+               Kerala High Court             ,59,2
+               Kerala High Court             ,66,2
+               Kerala High Court             ,68,1
+               Calcutta High Court             ,1907,98
+               Calcutta High Court             ,1908,201
+               Calcutta High Court             ,1909,583
+               Calcutta High Court             ,1910,550
+               Calcutta High Court             ,1911,348
+               Calcutta High Court             ,1912,611
+               Calcutta High Court             ,1913,242
+               Calcutta High Court             ,1914,334
+               Calcutta High Court             ,1915,385
+               Calcutta High Court             ,1916,422
+               Calcutta High Court             ,1917,463
+               Calcutta High Court             ,1918,520
+               Calcutta High Court             ,1919,514
+               Calcutta High Court             ,1920,477
+               Kerala High Court             ,71,3
+               Kerala High Court             ,72,4
+               Kerala High Court             ,73,6
+               Kerala High Court             ,74,6
+               Kerala High Court             ,75,1
+               Kerala High Court             ,76,3
+               Kerala High Court             ,77,1
+               Kerala High Court             ,79,1
+               Kerala High Court             ,80,1
+               Kerala High Court             ,81,2
+               Kerala High Court             ,82,2
+               Kerala High Court             ,83,4
+               Kerala High Court             ,84,3
+               Kerala High Court             ,85,9
+               Kerala High Court             ,86,4
+               Kerala High Court             ,87,2
+               Kerala High Court             ,88,11
+               Kerala High Court             ,89,10
+               Kerala High Court             ,90,5
+               Kerala High Court             ,91,13
+               Kerala High Court             ,92,11
+               Calcutta High Court             ,1921,361
+               Calcutta High Court             ,1922,496
+               Calcutta High Court             ,1923,532
+               Calcutta High Court             ,1924,740
+               Calcutta High Court             ,1925,576
+               Calcutta High Court             ,1926,382
+               Calcutta High Court             ,1927,392
+               Calcutta High Court             ,1928,468
+               Calcutta High Court             ,1929,470
+               Calcutta High Court             ,1930,399
+               Calcutta High Court             ,1931,302
+               Calcutta High Court             ,1932,345
+               Calcutta High Court             ,1933,399
+               Calcutta High Court             ,1934,392
+               Calcutta High Court             ,1935,381
+               Calcutta High Court             ,1936,345
+               Calcutta High Court             ,1937,328
+               Calcutta High Court             ,1938,286
+               Calcutta High Court             ,1939,257
+               Kerala High Court             ,93,11
+               Kerala High Court             ,94,13
+               Kerala High Court             ,95,11
+               Kerala High Court             ,96,24
+               Kerala High Court             ,97,24
+               Kerala High Court             ,98,32
+               Kerala High Court             ,99,39
+               Kerala High Court             ,104,1
+               Kerala High Court             ,115,1
+               Kerala High Court             ,178,2
+               Kerala High Court             ,180,1
+               Kerala High Court             ,196,1
+               Kerala High Court             ,199,1
+               Kerala High Court             ,200,4
+               Calcutta High Court             ,1940,266
+               Calcutta High Court             ,1941,231
+               Calcutta High Court             ,1942,185
+               Calcutta High Court             ,1943,196
+               Calcutta High Court             ,1944,95
+               Calcutta High Court             ,1945,72
+               Calcutta High Court             ,1946,118
+               Calcutta High Court             ,1947,127
+               Calcutta High Court             ,1948,97
+               Calcutta High Court             ,1949,238
+               Calcutta High Court             ,1950,213
+               Calcutta High Court             ,1951,303
+               Calcutta High Court             ,1952,234
+               Calcutta High Court             ,1953,249
+               Calcutta High Court             ,1954,211
+               Calcutta High Court             ,1955,213
+               Calcutta High Court             ,1956,196
+               Calcutta High Court             ,1957,217
+               Calcutta High Court             ,1958,256
+               Calcutta High Court             ,1959,207
+               Kerala High Court             ,201,12
+               Kerala High Court             ,202,1
+               Kerala High Court             ,204,2
+               Kerala High Court             ,205,2
+               Kerala High Court             ,206,1
+               Kerala High Court             ,207,1
+               Kerala High Court             ,213,1
+               Kerala High Court             ,215,2
+               Kerala High Court             ,216,8
+               Kerala High Court             ,217,1
+               Kerala High Court             ,218,1
+               Kerala High Court             ,983,1
+               Kerala High Court             ,1006,1
+               Kerala High Court             ,1009,1
+               Kerala High Court             ,1010,2
+               Kerala High Court             ,1013,1
+               Kerala High Court             ,1028,1
+               Kerala High Court             ,1078,2
+               Calcutta High Court             ,1960,196
+               Calcutta High Court             ,1961,175
+               Calcutta High Court             ,1962,208
+               Calcutta High Court             ,1963,159
+               Calcutta High Court             ,1964,182
+               Calcutta High Court             ,1965,182
+               Calcutta High Court             ,1966,155
+               Calcutta High Court             ,1967,182
+               Calcutta High Court             ,1968,159
+               Calcutta High Court             ,1969,189
+               Calcutta High Court             ,1970,165
+               Calcutta High Court             ,1971,194
+               Calcutta High Court             ,1972,179
+               Calcutta High Court             ,1973,199
+               Calcutta High Court             ,1974,202
+               Calcutta High Court             ,1975,235
+               Kerala High Court             ,1085,1
+               Kerala High Court             ,1091,1
+               Kerala High Court             ,1097,1
+               Kerala High Court             ,1103,1
+               Kerala High Court             ,1109,2
+               Kerala High Court             ,1113,1
+               Kerala High Court             ,1115,2
+               Kerala High Court             ,1120,1
+               Kerala High Court             ,1124,1
+               Kerala High Court             ,1201,1
+               Kerala High Court             ,1800,162064
+               Kerala High Court             ,1821,1
+               Kerala High Court             ,1872,1
+               Kerala High Court             ,1875,1
+               Kerala High Court             ,1877,2
+               Kerala High Court             ,1878,2
+               Kerala High Court             ,1886,1
+               Kerala High Court             ,1897,1
+               Kerala High Court             ,1900,6
+               Kerala High Court             ,1902,1
+               Kerala High Court             ,1903,3
+               Kerala High Court             ,1904,2
+               Kerala High Court             ,1907,1
+               Kerala High Court             ,1908,2
+               Calcutta High Court             ,1976,239
+               Calcutta High Court             ,1977,237
+               Calcutta High Court             ,1978,436
+               Calcutta High Court             ,1979,219
+               Calcutta High Court             ,1980,257
+               Calcutta High Court             ,1981,311
+               Calcutta High Court             ,1982,281
+               Calcutta High Court             ,1983,178
+               Calcutta High Court             ,1984,273
+               Calcutta High Court             ,1985,245
+               Calcutta High Court             ,1986,300
+               Calcutta High Court             ,1987,220
+               Calcutta High Court             ,1988,332
+               Calcutta High Court             ,1989,439
+               Calcutta High Court             ,1990,401
+               Calcutta High Court             ,1991,402
+               Calcutta High Court             ,1992,304
+               Calcutta High Court             ,1993,347
+               Calcutta High Court             ,1994,267
+               Calcutta High Court             ,1995,342
+               Kerala High Court             ,1910,1
+               Kerala High Court             ,1911,1
+               Kerala High Court             ,1913,2
+               Kerala High Court             ,1918,1
+               Kerala High Court             ,1923,3
+               Kerala High Court             ,1925,1
+               Kerala High Court             ,1926,2
+               Kerala High Court             ,1928,2
+               Kerala High Court             ,1929,1
+               Kerala High Court             ,1931,2
+               Kerala High Court             ,1932,4
+               Kerala High Court             ,1933,2
+               Kerala High Court             ,1934,3
+               Calcutta High Court             ,1996,324
+               Calcutta High Court             ,1997,328
+               Calcutta High Court             ,1998,366
+               Calcutta High Court             ,1999,439
+               Calcutta High Court             ,2000,421
+               Calcutta High Court             ,2001,522
+               Calcutta High Court             ,2002,465
+               Calcutta High Court             ,2003,535
+               Calcutta High Court             ,2004,704
+               Calcutta High Court             ,2005,623
+               Calcutta High Court             ,2006,576
+               Calcutta High Court             ,2007,483
+               Calcutta High Court             ,2008,11728
+               Calcutta High Court             ,2009,21522
+               Calcutta High Court             ,2010,25417
+               Calcutta High Court             ,2011,10640
+               Calcutta High Court             ,2013,15567
+               Calcutta High Court             ,2014,33557
+               Calcutta High Court             ,2015,28913
+               Calcutta High Court             ,2016,26580
+               Calcutta High Court             ,2017,21273
+               Kerala High Court             ,1936,2
+               Kerala High Court             ,1938,2
+               Kerala High Court             ,1939,3
+               Kerala High Court             ,1941,4
+               Kerala High Court             ,1942,1
+               Kerala High Court             ,1943,1
+               Kerala High Court             ,1944,4
+               Kerala High Court             ,1945,3
+               Kerala High Court             ,1946,2
+               Kerala High Court             ,1947,4
+               Kerala High Court             ,1948,4
+               Kerala High Court             ,1949,8
+               Kerala High Court             ,1950,9
+               Kerala High Court             ,1951,8
+               Kerala High Court             ,1952,3
+               Kerala High Court             ,1953,8
+               Kerala High Court             ,1954,5
+               Calcutta High Court             ,2018,19249
+               Calcutta High Court             ,2019,18230
+               Calcutta High Court             ,2020,7098
+               Kerala High Court             ,1955,7
+               Kerala High Court             ,1956,6
+               Kerala High Court             ,1957,9
+               Kerala High Court             ,1958,21
+               Kerala High Court             ,1959,141
+               Kerala High Court             ,1960,275
+               Kerala High Court             ,1961,178
+               Kerala High Court             ,1962,155
+               Kerala High Court             ,1963,170
+               Kerala High Court             ,1964,154
+               Kerala High Court             ,1965,167
+               Kerala High Court             ,1966,199
+               Kerala High Court             ,1967,134
+               Kerala High Court             ,1968,187
+               Kerala High Court             ,1969,93
+               Kerala High Court             ,1970,164
+               Kerala High Court             ,1971,235
+               Kerala High Court             ,1972,250
+               Kerala High Court             ,1973,243
+               Kerala High Court             ,1974,183
+               Kerala High Court             ,1975,240
+               Kerala High Court             ,1976,231
+               Kerala High Court             ,1977,258
+               Kerala High Court             ,1978,283
+               Kerala High Court             ,1979,232
+               Kerala High Court             ,1980,267
+               Kerala High Court             ,1981,338
+               Kerala High Court             ,1982,264
+               Kerala High Court             ,1983,269
+               Kerala High Court             ,1984,339
+               Kerala High Court             ,1985,350
+               Kerala High Court             ,1986,379
+               Kerala High Court             ,1987,550
+               Kerala High Court             ,1988,382
+               Kerala High Court             ,1989,610
+               Kerala High Court             ,1990,510
+               Kerala High Court             ,1991,575
+               Kerala High Court             ,1992,513
+               Kerala High Court             ,1993,634
+               Kerala High Court             ,1994,735
+               Kerala High Court             ,1995,751
+               Kerala High Court             ,1996,1046
+               Kerala High Court             ,1997,908
+               Kerala High Court             ,1998,1199
+               Kerala High Court             ,1999,1274
+               Kerala High Court             ,2000,1534
+               Kerala High Court             ,2001,1892
+               Kerala High Court             ,2002,2316
+               Kerala High Court             ,2003,2989
+               Kerala High Court             ,2004,3312
+               Kerala High Court             ,2005,4100
+               Kerala High Court             ,2006,9053
+               Kerala High Court             ,2007,35328
+               Kerala High Court             ,2008,53964
+               Kerala High Court             ,2009,55569
+               Kerala High Court             ,2010,57361
+               Kerala High Court             ,2011,42445
+               Kerala High Court             ,2012,20547
+               Kerala High Court             ,2013,19003
+               Kerala High Court             ,2014,21955
+               Kerala High Court             ,2015,19486
+               Kerala High Court             ,2016,19901
+               Kerala High Court             ,2017,16064
+               Kerala High Court             ,2018,19644
+               Kerala High Court             ,2019,36763
+               Kerala High Court             ,2020,37352
+               Kerala High Court             ,2021,2
+               Kerala High Court             ,2047,1
+               Kerala High Court             ,2061,2
+               Kerala High Court             ,2097,1
+               Kerala High Court             ,2099,2
+               Kerala High Court             ,2100,3
+               Kerala High Court             ,2102,2
+               Kerala High Court             ,2103,3
+               Kerala High Court             ,2104,3
+               Kerala High Court             ,2105,3
+               Kerala High Court             ,2106,2
+               Kerala High Court             ,2107,5
+               Kerala High Court             ,2204,1
+               Kerala High Court             ,2208,1
+               Kerala High Court             ,2300,1
+               Kerala High Court             ,2301,1
+               Kerala High Court             ,2912,1
+               Kerala High Court             ,2913,1
+               Kerala High Court             ,2914,1
+               Kerala High Court             ,2915,1
+               Kerala High Court             ,2919,1
+               Kerala High Court             ,2971,1
+               Kerala High Court             ,2972,1
+               Kerala High Court             ,2980,1
+               Kerala High Court             ,2981,3
+               Kerala High Court             ,2985,1
+               Kerala High Court             ,2986,1
+               Kerala High Court             ,2993,1
+               Kerala High Court             ,2994,1
+               Kerala High Court             ,3006,1
+               Kerala High Court             ,3007,1
+               Kerala High Court             ,3011,1
+               Kerala High Court             ,3012,1
+               Kerala High Court             ,3013,2
+               Kerala High Court             ,3014,3
+               Kerala High Court             ,3015,4
+               Kerala High Court             ,3017,3
+               Kerala High Court             ,3200,1
+               Kerala High Court             ,4014,1
+               Kerala High Court             ,5017,1
+               Kerala High Court             ,7740,1
+               Karnataka High Court             ,1800,43
+               Karnataka High Court             ,1949,12
+               Jharkhand High Court             ,1800,2
+               Jharkhand High Court             ,1996,1
+               Jharkhand High Court             ,1997,1
+               Jharkhand High Court             ,1999,1
+               Jharkhand High Court             ,2000,39
+               Karnataka High Court             ,1950,44
+               Karnataka High Court             ,1951,87
+               Karnataka High Court             ,1952,99
+               Karnataka High Court             ,1953,67
+               Karnataka High Court             ,1954,45
+               Karnataka High Court             ,1955,49
+               Jharkhand High Court             ,2001,696
+               Jharkhand High Court             ,2002,1090
+               Jharkhand High Court             ,2003,1225
+               Jharkhand High Court             ,2004,985
+               Jharkhand High Court             ,2005,751
+               Jharkhand High Court             ,2006,1129
+               Jharkhand High Court             ,2007,772
+               Jharkhand High Court             ,2008,837
+               Jharkhand High Court             ,2009,2747
+               Karnataka High Court             ,1956,49
+               Karnataka High Court             ,1957,63
+               Karnataka High Court             ,1958,118
+               Karnataka High Court             ,1959,112
+               Karnataka High Court             ,1960,80
+               Karnataka High Court             ,1961,127
+               Karnataka High Court             ,1962,158
+               Karnataka High Court             ,1963,137
+               Karnataka High Court             ,1964,151
+               Karnataka High Court             ,1965,130
+               Karnataka High Court             ,1966,169
+               Karnataka High Court             ,1967,173
+               Karnataka High Court             ,1968,145
+               Karnataka High Court             ,1969,116
+               Jharkhand High Court             ,2010,1959
+               Jharkhand High Court             ,2011,26242
+               Jharkhand High Court             ,2012,28630
+               Jharkhand High Court             ,2013,20386
+               Jharkhand High Court             ,2014,30010
+               Jharkhand High Court             ,2015,35107
+               Jharkhand High Court             ,2016,45547
+               Jharkhand High Court             ,2017,58290
+               Jharkhand High Court             ,2018,50144
+               Jharkhand High Court             ,2019,37403
+               Jharkhand High Court             ,2020,58224
+               Karnataka High Court             ,1970,141
+               Karnataka High Court             ,1971,213
+               Karnataka High Court             ,1972,177
+               Karnataka High Court             ,1973,101
+               Karnataka High Court             ,1974,134
+               Karnataka High Court             ,1975,113
+               Karnataka High Court             ,1976,110
+               Karnataka High Court             ,1977,123
+               Karnataka High Court             ,1978,176
+               Karnataka High Court             ,1979,125
+               Karnataka High Court             ,1980,179
+               Karnataka High Court             ,1981,189
+               Karnataka High Court             ,1982,141
+               Karnataka High Court             ,1983,189
+               Karnataka High Court             ,1984,374
+               Karnataka High Court             ,1985,497
+               Karnataka High Court             ,1986,405
+               Karnataka High Court             ,1987,284
+               Karnataka High Court             ,1988,327
+               Karnataka High Court             ,1989,299
+               Karnataka High Court             ,1990,512
+               Karnataka High Court             ,1991,515
+               Karnataka High Court             ,1992,441
+               Karnataka High Court             ,1993,323
+               Karnataka High Court             ,1994,404
+               Karnataka High Court             ,1995,540
+               Karnataka High Court             ,1996,540
+               Karnataka High Court             ,1997,686
+               Karnataka High Court             ,1998,799
+               Karnataka High Court             ,1999,588
+               Karnataka High Court             ,2000,645
+               Karnataka High Court             ,2001,670
+               Karnataka High Court             ,2002,726
+               Karnataka High Court             ,2003,956
+               Karnataka High Court             ,2004,621
+               Karnataka High Court             ,2005,773
+               Karnataka High Court             ,2006,889
+               Karnataka High Court             ,2007,659
+               Karnataka High Court             ,2008,36146
+               Karnataka High Court             ,2009,47878
+               Karnataka High Court             ,2010,54131
+               Karnataka High Court             ,2011,47717
+               Karnataka High Court             ,2012,57886
+               Karnataka High Court             ,2013,59886
+               Karnataka High Court             ,2014,42201
+               Karnataka High Court             ,2015,15724
+               Karnataka High Court             ,2016,20394
+               Karnataka High Court             ,2017,46543
+               Karnataka High Court             ,2018,48907
+               Karnataka High Court             ,2019,38497
+               Karnataka High Court             ,2020,10246
+               Jammu & Kashmir High Court             ,1800,24
+               Jammu & Kashmir High Court             ,1950,9
+               Jammu & Kashmir High Court             ,1951,5
+               Jammu & Kashmir High Court             ,1952,5
+               Jammu & Kashmir High Court             ,1953,6
+               Jammu & Kashmir High Court             ,1954,4
+               Jammu & Kashmir High Court             ,1955,10
+               Jammu & Kashmir High Court             ,1956,2
+               Jammu & Kashmir High Court             ,1957,14
+               Jammu & Kashmir High Court             ,1958,10
+               Jammu & Kashmir High Court             ,1959,13
+               Jammu & Kashmir High Court             ,1960,6
+               Jammu & Kashmir High Court             ,1961,6
+               Jammu & Kashmir High Court             ,1962,3
+               Jammu & Kashmir High Court             ,1963,11
+               Jammu & Kashmir High Court             ,1964,7
+               Jammu & Kashmir High Court             ,1965,11
+               Jammu & Kashmir High Court             ,1966,13
+               Jammu & Kashmir High Court             ,1967,5
+               Jammu & Kashmir High Court             ,1968,11
+               Jammu & Kashmir High Court             ,1969,8
+               Jammu & Kashmir High Court             ,1970,10
+               Jammu & Kashmir High Court             ,1971,12
+               Jammu & Kashmir High Court             ,1972,15
+               Jammu & Kashmir High Court             ,1973,12
+               Jammu & Kashmir High Court             ,1974,27
+               Jammu & Kashmir High Court             ,1975,12
+               Jammu & Kashmir High Court             ,1976,20
+               Jammu & Kashmir High Court             ,1977,3
+               Jammu & Kashmir High Court             ,1978,10
+               Jammu & Kashmir High Court             ,1979,20
+               Jammu & Kashmir High Court             ,1980,42
+               Jammu & Kashmir High Court             ,1981,32
+               Jammu & Kashmir High Court             ,1982,40
+               Jammu & Kashmir High Court             ,1983,28
+               Jammu & Kashmir High Court             ,1984,39
+               Jammu & Kashmir High Court             ,1985,37
+               Jammu & Kashmir High Court             ,1986,42
+               Jammu & Kashmir High Court             ,1987,33
+               Jammu & Kashmir High Court             ,1988,46
+               Jammu & Kashmir High Court             ,1989,48
+               Jammu & Kashmir High Court             ,1990,19
+               Jammu & Kashmir High Court             ,1991,27
+               Jammu & Kashmir High Court             ,1992,49
+               Jammu & Kashmir High Court             ,1993,26
+               Jammu & Kashmir High Court             ,1994,33
+               Jammu & Kashmir High Court             ,1995,57
+               Jammu & Kashmir High Court             ,1996,60
+               Jammu & Kashmir High Court             ,1997,55
+               Jammu & Kashmir High Court             ,1998,121
+               Jammu & Kashmir High Court             ,1999,84
+               Jammu & Kashmir High Court             ,2000,112
+               Jammu & Kashmir High Court             ,2001,59
+               Jammu & Kashmir High Court             ,2002,170
+               Jammu & Kashmir High Court             ,2003,337
+               Jammu & Kashmir High Court             ,2004,346
+               Jammu & Kashmir High Court             ,2005,308
+               Jammu & Kashmir High Court             ,2006,263
+               Jammu & Kashmir High Court             ,2007,255
+               Jammu & Kashmir High Court             ,2008,157
+               Jammu & Kashmir High Court             ,2009,179
+               Jammu & Kashmir High Court             ,2010,216
+               Jammu & Kashmir High Court             ,2011,112
+               Jammu & Kashmir High Court             ,2012,268
+               Jammu & Kashmir High Court             ,2013,406
+               Jammu & Kashmir High Court             ,2014,271
+               Jammu & Kashmir High Court             ,2015,212
+               Jammu & Kashmir High Court             ,2016,416
+               Jammu & Kashmir High Court             ,2017,6193
+               Jammu & Kashmir High Court             ,2018,3799
+               Jammu & Kashmir High Court             ,2019,23531
+               Jammu & Kashmir High Court             ,2020,23898
