@@ -6,7 +6,11 @@
 import scrapy
 
 
-class IndkanoonItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+class CaseCounts(scrapy.Item):
+    source = scrapy.Field()
+    year = scrapy.Field()
+    count = scrapy.Field()
+
+
+class CaseDocURL(scrapy.Item):
+    url = scrapy.Field()

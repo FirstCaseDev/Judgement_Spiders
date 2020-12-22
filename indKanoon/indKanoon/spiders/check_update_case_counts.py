@@ -1,7 +1,7 @@
 import scrapy
 import re
 from scrapy.spiders import CrawlSpider
-
+from ..items import CaseCounts,CaseDocURL
 
 class ListedCount(scrapy.Item):
     SourceName = scrapy.Field()
@@ -36,6 +36,7 @@ class CheckUpdateCaseCountsSpider(scrapy.Spider):
                 )
 
     def parseYearURL(self, response):
+        items = CaseCounts()
         yearBrowseList = response.css('.browselist')
         sourceRaw = response.css('.static_bar ::text')[0].extract()
         source = self.processSource(sourceRaw)
@@ -44,8 +45,7 @@ class CheckUpdateCaseCountsSpider(scrapy.Spider):
             count = int(self.processCount(countRaw))
             year = yearPage.css('a::text').extract_first()
             if year:
-                yield {'Source': source,
-                       'year': year,
-                       'count': count
-                       }
-
+                items['source'] = source
+                items['year'] = year
+                items['count'] = count
+                yield items

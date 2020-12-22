@@ -11,7 +11,8 @@ BOT_NAME = 'indKanoon'
 
 SPIDER_MODULES = ['indKanoon.spiders']
 NEWSPIDER_MODULE = 'indKanoon.spiders'
-
+MONGO_URI = 'mongodb://PuneetShrivas:admin@firstcase00-shard-00-00.aapjj.mongodb.net:27017,firstcase00-shard-00-01.aapjj.mongodb.net:27017,firstcase00-shard-00-02.aapjj.mongodb.net:27017/<dbname>?ssl=true&replicaSet=atlas-upi8rw-shard-0&authSource=admin&retryWrites=true&w=majority'
+MONGO_DATABASE = 'casecounts'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'indKanoon (+http://www.yourdomain.com)'
@@ -62,9 +63,9 @@ COOKIES_ENABLED = False
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'indKanoon.pipelines.IndkanoonPipeline': 300,
-#}
+ITEM_PIPELINES = {
+   'indKanoon.pipelines.IndkanoonPipeline': 300,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
