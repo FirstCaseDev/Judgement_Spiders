@@ -43,6 +43,7 @@ class BrowseAllDocsListSpider(scrapy.Spider):
                 )
 
     def parseListedCases(self, response):
+        items = CaseDocURL()
         for result_page in response.css('.result_title'):
             url_fragment = result_page.css('a ::attr(href)').extract_first()
             url = self.concatURL(url_fragment)
