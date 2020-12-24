@@ -49,3 +49,10 @@ class CheckUpdateCaseCountsSpider(scrapy.Spider):
                 items['year'] = year
                 items['count'] = count
                 yield items
+
+# process = CrawlerProcess({
+#     'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)'
+# })
+
+# process.crawl(MySpider)
+# process.start() 

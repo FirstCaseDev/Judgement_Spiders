@@ -1,0 +1,10 @@
+  version: '3.4'
+
+services:
+  indkanoon:
+    image: indkanoon
+    ports: 
+      - "8081:80"
+    build:
+      context: .
+      dockerfile: ./Dockerfile
