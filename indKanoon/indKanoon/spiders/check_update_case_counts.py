@@ -3,10 +3,10 @@ import re
 from scrapy.spiders import CrawlSpider
 from ..items import CaseCounts,CaseDocURL
 
-class ListedCount(scrapy.Item):
-    SourceName = scrapy.Field()
-    Year = scrapy.Field()
-    YearCount = scrapy.Field()
+# class ListedCount(scrapy.Item):
+#     SourceName = scrapy.Field()
+#     Year = scrapy.Field()
+#     YearCount = scrapy.Field()
 
 
 class CheckUpdateCaseCountsSpider(scrapy.Spider):

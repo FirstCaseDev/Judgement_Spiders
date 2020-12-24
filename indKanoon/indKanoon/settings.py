@@ -12,7 +12,7 @@ BOT_NAME = 'indKanoon'
 SPIDER_MODULES = ['indKanoon.spiders']
 NEWSPIDER_MODULE = 'indKanoon.spiders'
 MONGO_URI = 'mongodb://PuneetShrivas:admin@firstcase00-shard-00-00.aapjj.mongodb.net:27017,firstcase00-shard-00-01.aapjj.mongodb.net:27017,firstcase00-shard-00-02.aapjj.mongodb.net:27017/<dbname>?ssl=true&replicaSet=atlas-upi8rw-shard-0&authSource=admin&retryWrites=true&w=majority'
-MONGO_DATABASE = 'casecounts'
+MONGO_DATABASE = 'caseurls'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 USER_AGENT = 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'
@@ -21,7 +21,7 @@ USER_AGENT = 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot
 ROBOTSTXT_OBEY = True
 # PROXY_POOL_ENABLED = True
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
-CONCURRENT_REQUESTS = 1
+CONCURRENT_REQUESTS = 16
 
 # Configure a delay for requests for the same website (default: 0)
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay

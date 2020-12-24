@@ -5,5 +5,5 @@ from indKanoon.spiders.check_update_case_counts import CheckUpdateCaseCountsSpid
 
 
 process = CrawlerProcess(get_project_settings())
-process.crawl(case_counts)
+process.crawl(all_list)
 process.start() 
