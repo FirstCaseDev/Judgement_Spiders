@@ -11,7 +11,7 @@ import pymongo
 
 
 class IndkanoonPipeline(object):
-    collection_name = 'casecounts'
+    collection_name = 'urllist'
 
     def __init__(self, mongo_uri, mongo_db):
         self.mongo_uri = mongo_uri
