@@ -13,6 +13,7 @@ class ScindkanoonItem(scrapy.Item):
 
 class document(scrapy.Item):
     source = scrapy.Field()
+    title = scrapy.Field()
     url = scrapy.Field()
     petitioner = scrapy.Field()
     respondent = scrapy.Field()
@@ -21,11 +22,11 @@ class document(scrapy.Item):
     year = scrapy.Field()
     doc_author = scrapy.Field()
     bench = scrapy.Field()
-    judgement_result = scrapy.Field()
+    judgement = scrapy.Field()
     judgement_text = scrapy.Field()
     # cited_by = scrapy.Field()
     # cited = scrapy.Field()
-
+    # lawyer 
 class CaseDocURL(scrapy.Item):
     url = scrapy.Field()
     source = scrapy.Field()

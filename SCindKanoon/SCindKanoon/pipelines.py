@@ -11,7 +11,7 @@ import pymongo
 
 
 class ScindkanoonPipeline:
-    collection_name = 'SCurls02'
+    collection_name = 'SCdata01'
 
     def __init__(self, mongo_uri, mongo_db):
         self.mongo_uri = mongo_uri

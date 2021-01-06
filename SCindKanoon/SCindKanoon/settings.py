@@ -11,8 +11,10 @@ BOT_NAME = 'SCindKanoon'
 
 SPIDER_MODULES = ['SCindKanoon.spiders']
 NEWSPIDER_MODULE = 'SCindKanoon.spiders'
-MONGO_URI = 'mongodb://PuneetShrivas:admin@firstcase00-shard-00-00.aapjj.mongodb.net:27017,firstcase00-shard-00-01.aapjj.mongodb.net:27017,firstcase00-shard-00-02.aapjj.mongodb.net:27017/<dbname>?ssl=true&replicaSet=atlas-upi8rw-shard-0&authSource=admin&retryWrites=true&w=majority'
-MONGO_DATABASE = 'caseurls'
+MONGO_URI = 'mongodb+srv://PuneetShrivas:admin@betatesting.nsnxl.mongodb.net/<dbname>?retryWrites=true&w=majority'
+MONGO_DATABASE = 'SCdata'
+
+#  new URI mongodb+srv://PuneetShrivas:admin@betatesting.nsnxl.mongodb.net/test?authSource=admin&replicaSet=atlas-mr0go1-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'SCindKanoon (+http://www.yourdomain.com)'
@@ -23,7 +25,6 @@ ROBOTSTXT_OBEY = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 CONCURRENT_REQUESTS = 32
-
 # Configure a delay for requests for the same website (default: 0)
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs
@@ -31,9 +32,11 @@ CONCURRENT_REQUESTS = 32
 #CONCURRENT_REQUESTS_PER_DOMAIN = 16
 #CONCURRENT_REQUESTS_PER_IP = 16
 
+
 # Disable cookies (enabled by default)
 COOKIES_ENABLED = False
 
+# DOWNLOAD_DELAY = 0.1
 # Disable Telnet Console (enabled by default)
 #TELNETCONSOLE_ENABLED = False
 

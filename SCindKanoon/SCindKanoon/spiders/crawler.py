@@ -6,7 +6,7 @@ items = CaseDocURL()
 
 class CrawlerSpider(scrapy.Spider):
     name = 'crawler'
-    allowed_domains = ['indiankanoon.org']
+    # allowed_domains = ['indiankanoon.org']
     start_urls = ['http://indiankanoon.org/browse/supremecourt/']
     items['source'] = 'Supreme Court of India'
 
@@ -49,7 +49,7 @@ class CrawlerSpider(scrapy.Spider):
             yield items
 
         NEXT_PAGE_SELECTOR = '.bottom a ::attr(href)'
-        next_page = response.css(NEXT_PAGE_SELECTOR)[-1].extract()
+        next_page = response.css('.bottom a ::attr(href)').extract()[-1]
         if next_page:
             yield scrapy.Request(
                 response.urljoin(next_page),
