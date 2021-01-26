@@ -19,5 +19,5 @@ COPY . /app
 # USER appuser
 
 # During debugging, this entry point will be overridden. For more information, please refer to https://aka.ms/vscode-docker-python-debug
-EXPOSE 8081
-CMD ["python", "analyzer.py"]
+EXPOSE 8081 
+CMD ["scrapy", "crawl", "usextractor"]

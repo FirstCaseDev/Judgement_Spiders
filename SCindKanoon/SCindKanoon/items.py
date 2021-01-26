@@ -24,9 +24,12 @@ class document(scrapy.Item):
     bench = scrapy.Field()
     judgement = scrapy.Field()
     judgement_text = scrapy.Field()
+    respondent_counsel = scrapy.Field()
+    petitioner_counsel = scrapy.Field()
     # cited_by = scrapy.Field()
     # cited = scrapy.Field()
     # lawyer 
+
 class CaseDocURL(scrapy.Item):
     url = scrapy.Field()
     source = scrapy.Field()
